@@ -3,6 +3,7 @@
 #include<unordered_map>
 
 #include "net.h"
+#include "cell.h"
 
 class DEF{
 

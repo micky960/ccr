@@ -1,1719 +1,1626 @@
-Cell: g17954-->
-A: PIN: CONT1_REG_6__SCAN_IN
-
-Cell: g17944-->
-A: PIN: R_IN_REG_3__SCAN_IN
-
-Cell: g17945-->
-A: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17938-->
-A: PIN: CONT1_REG_1__SCAN_IN
-
-Cell: g17946-->
-A: PIN: STATO_REG_0__SCAN_IN
-
-Cell: g17943-->
-A: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17947-->
-A: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17772-->
-A1: g17823: ZN
-A2: PIN: CONT1_REG_3__SCAN_IN
-B1: g17853: ZN
-B2: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17920-->
-A1: g17935: ZN
-A2: PIN: CONT_REG_0__SCAN_IN
-
-Cell: g17909-->
-A2: g17937: ZN
-A1: g17946: ZN
-
-Cell: g17765-->
-B2: g17941: ZN
-B1: g17813: ZN
-A: g17827: ZN
-
-Cell: g17719-->
-C2: g17956: ZN
-B1: g17754: ZN
-B2: g17799: ZN
-C1: g17867: ZN
-A: g17830: ZN
-
-Cell: g17776-->
-A: g17780: ZN
-
-Cell: g17800-->
-B1: g17849: ZN
-B2: g17952: ZN
-A2: g17893: ZN
-A1: g17868: ZN
-
-Cell: g17794-->
-A: g17817: ZN
-B1: g17948: ZN
-B2: g17921: ZN
-
-Cell: g17717-->
-A1: g17747: ZN
-A2: g17889: ZN
-
-Cell: g17786-->
-A3: g17951: ZN
-A2: g17955: ZN
-A1: g17816: ZN
-
-Cell: g17783-->
-A: g17839: S
-C1: g17864: ZN
-B: g17837: CO
-C2: g17846: ZN
-
-Cell: g17754-->
-A1: g17778: ZN
-A2: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17752-->
-A: g17758: ZN
-
-Cell: g17757-->
-B2: g17950: ZN
-B1: g17812: ZN
-A2: PIN: CONT1_REG_4__SCAN_IN
-A1: g17879: ZN
-
-Cell: g17803-->
-A: g17903: ZN
-B: PIN: STATO_REG_2__SCAN_IN
-
-Cell: g17762-->
-A3: g17941: ZN
-A2: g17838: ZN
-A1: g17827: ZN
-B3: PIN: R_IN_REG_2__SCAN_IN
-B1: g17839: S
-B2: g17805: ZN
-
-Cell: g17876-->
-A1: g17899: ZN
-A2: g17927: ZN
-
-Cell: g17756-->
-A: g17955: ZN
-B2: g17913: ZN
-B1: g17816: ZN
-
-Cell: g17775-->
-A: g17777: ZN
-
-Cell: g17818-->
-A1: g17907: ZN
-A2: g17894: ZN
-
-Cell: g17870-->
-A2: g17916: ZN
-A1: g17915: ZN
-
-Cell: g17707-->
-B2: g17759: ZN
-B1: FE_OFC14_n_248: Z
-A: PIN: CONT_REG_4__SCAN_IN
-
-Cell: g17720-->
-A: g17925: ZN
-B1: g17772: ZN
-B2: g17926: ZN
-
-Cell: g17718-->
-A: g17747: ZN
-B2: g17857: ZN
-B1: g17751: CO
-
-Cell: g17914-->
-A1: g17953: ZN
-A2: PIN: CONT_REG_2__SCAN_IN
-
-Cell: g17703-->
-A2: g17922: ZN
-A1: g17717: ZN
-
-Cell: g17758-->
-A: g17826: ZN
-B2: PIN: R_IN_REG_2__SCAN_IN
-B1: g17808: ZN
-
-Cell: g17779-->
-A1: g17802: ZN
-A2: PIN: CONT1_REG_4__SCAN_IN
-
-Cell: g17761-->
-C1: g17861: ZN
-A: g17824: ZN
-C2: PIN: CONT1_REG_3__SCAN_IN
-B: g17918: ZN
-
-Cell: g17905-->
-A1: PIN: R_IN_REG_1__SCAN_IN
-A2: PIN: R_IN_REG_5__SCAN_IN
-
-Cell: g17702-->
-A1: g17815: ZN
-A2: g17717: ZN
-
-Cell: g17669-->
-A3: g17731: ZN
-A4: g17783: ZN
-A1: g17691: ZN
-A2: g17722: ZN
-
-Cell: g17700-->
-A1: g17716: ZN
-A2: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17784-->
-B1: g17937: ZN
-B2: PIN: R_IN_REG_1__SCAN_IN
-A: g17822: ZN
-
-Cell: g17796-->
-B1: g17874: ZN
-B2: g17942: ZN
-A2: g17940: ZN
-A1: g17844: ZN
-
-Cell: g17682-->
-A1: g17712: ZN
-A2: g17843: ZN
-
-Cell: g17760-->
-A3: g17907: ZN
-A2: g17809: ZN
-A1: g17786: ZN
-
-Cell: g17730-->
-A3: g17863: ZN
-A4: g17874: ZN
-A1: g17770: ZN
-A2: g17849: ZN
-
-Cell: g17768-->
-A1: g17807: ZN
-A2: PIN: CONT1_REG_5__SCAN_IN
-B1: g17865: ZN
-B2: PIN: X_OUT_REG_5__SCAN_IN
-
-Cell: g17846-->
-A1: g17899: ZN
-A2: g17892: ZN
-
-Cell: g17735-->
-A: g17772: ZN
-B: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17733-->
-A1: g17765: ZN
-A2: g17814: ZN
-B2: PIN: R_IN_REG_3__SCAN_IN
-B1: g17878: ZN
-
-Cell: g17852-->
-A: g17858: ZN
-
-Cell: g17721-->
-A: g17746: ZN
-C1: g17792: ZN
-C2: g17941: ZN
-B: g17797: ZN
-
-Cell: g17748-->
-B1: g17806: ZN
-B2: g17810: ZN
-A: g17769: ZN
-
-Cell: g17875-->
-A1: g17899: ZN
-A2: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17895-->
-B1: g17954: ZN
-B2: PIN: R_IN_REG_1__SCAN_IN
-A1: g17947: ZN
-A2: PIN: CONT1_REG_7__SCAN_IN
-
-Cell: g17925-->
-A2: PIN: CONT1_REG_4__SCAN_IN
-A1: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17714-->
-A: g17718: ZN
-
-Cell: g17939-->
-A: PIN: R_IN_REG_4__SCAN_IN
-
-Cell: g17942-->
-A: PIN: X_OUT_REG_0__SCAN_IN
-
-Cell: g17743-->
-A: g17885: ZN
-B2: g17946: ZN
-B1: g17784: ZN
-
-Cell: g17641-->
-C2: g17885: ZN
-C1: g17651: S
-B1: g17880: ZN
-B2: PIN: CONT_REG_4__SCAN_IN
-A: g17821: ZN
-
-Cell: g17858-->
-B1: g17938: ZN
-B2: PIN: STATO_REG_3__SCAN_IN
-A2: g17936: ZN
-A1: g17900: ZN
-
-Cell: g17726-->
-A: g17735: ZN
-
-Cell: g17673-->
-B3: g17919: ZN
-B1: g17802: ZN
-B2: g17851: ZN
-A3: PIN: R_IN_REG_0__SCAN_IN
-A1: g17698: ZN
-A2: g17789: ZN
-
-Cell: g17675-->
-B1: g17737: ZN
-B2: g17920: ZN
-A1: g17701: ZN
-A2: g17935: ZN
-
-Cell: g17917-->
-A: g17922: ZN
-
-Cell: g17712-->
-A: g17733: ZN
-B2: g17882: ZN
-B1: g17758: ZN
-
-Cell: g17741-->
-B1: g17778: ZN
-B2: g17924: ZN
-A2: g17917: ZN
-A1: g17810: ZN
-
-Cell: g17686-->
-A3: PIN: STATO_REG_3__SCAN_IN
-A2: g17917: ZN
-A1: g17699: ZN
-
-Cell: g17759-->
-A: g17775: ZN
-B2: g17936: ZN
-B1: g17874: ZN
-
-Cell: g17617-->
-B: g17622: ZN
-C2: g17776: ZN
-C1: g17659: ZN
-A: g17645: ZN
-
-Cell: g17843-->
-A2: g17939: ZN
-A1: g17890: ZN
-
-Cell: g17750-->
-C1: g17780: ZN
-A: g17876: ZN
-B: g17881: ZN
-C2: g17941: ZN
-
-Cell: g17742-->
-A3: g17951: ZN
-A4: PIN: CONT_REG_5__SCAN_IN
-A1: g17759: ZN
-A2: g17848: ZN
-
-Cell: g17678-->
-B1: g17716: ZN
-B2: PIN: CONT1_REG_5__SCAN_IN
-A: g17699: ZN
-
-Cell: g17731-->
-B2: g17885: ZN
-B1: g17794: ZN
-A2: g17875: ZN
-A1: g17762: ZN
-
-Cell: g17635-->
-A2: g17725: ZN
-A1: g17642: ZN
-B1: g17692: ZN
-B2: g17950: ZN
-
-Cell: g17728-->
-C1: g17919: ZN
-B: g17744: ZN
-C2: PIN: CONT1_REG_5__SCAN_IN
-A: g17841: ZN
-
-Cell: g17860-->
-A2: g17941: ZN
-A1: g17927: ZN
-B2: PIN: R_IN_REG_2__SCAN_IN
-B1: g17906: ZN
-
-Cell: g17740-->
-C1: g17871: ZN
-B2: g17802: ZN
-B1: g17850: ZN
-C2: g17900: ZN
-A: g17791: ZN
-
-Cell: g17671-->
-B2: g17716: ZN
-B1: g17702: ZN
-A: g17771: ZN
-
-Cell: g17956-->
-A: PIN: CONT_REG_2__SCAN_IN
-
-Cell: g17672-->
-A: g17725: ZN
-B2: g17749: ZN
-B1: g17711: ZN
-
-Cell: g17723-->
-B1: g17756: ZN
-B2: PIN: STATO_REG_2__SCAN_IN
-A: g17911: ZN
-
-Cell: g17681-->
-C1: g17750: ZN
-A: g17741: ZN
-C2: g17938: ZN
-B: g17740: ZN
-
-Cell: g17655-->
-C2: g17881: ZN
-B1: g17716: ZN
-B2: g17703: ZN
-A: g17790: ZN
-C1: g17729: ZN
-
-Cell: g17630-->
-A1: g17636: CO
-A2: g17885: ZN
-
-Cell: g17688-->
-A: g17695: ZN
-
-Cell: g17755-->
-A2: g17876: ZN
-A1: g17788: ZN
-
-Cell: g17734-->
-C1: g17760: ZN
-C2: g17937: ZN
-B: g17896: ZN
-A: g17785: ZN
-
-Cell: g17693-->
-A: g17767: ZN
-B1: g17806: ZN
-B2: g17718: ZN
-
-Cell: g17701-->
-A1: g17715: ZN
-A2: g17759: ZN
-
-Cell: g17698-->
-A: g17705: ZN
-
-Cell: g17792-->
-B1: g17907: ZN
-B2: g17836: ZN
-A: g17901: ZN
-
-Cell: g17727-->
-A3: PIN: CONT_REG_0__SCAN_IN
-A1: FE_OFC14_n_248: Z
-A2: PIN: CONT_REG_1__SCAN_IN
-
-Cell: g17632-->
-A: g17663: ZN
-B2: PIN: CONT1_REG_8__SCAN_IN
-B1: g17639: ZN
-
-Cell: g17725-->
-A: FE_OFC16_n_344: Z
-
-Cell: g17782-->
-C1: g17941: ZN
-A: g17856: ZN
-B1: g17888: ZN
-B2: PIN: R_IN_REG_2__SCAN_IN
-C2: g17897: ZN
-
-Cell: g17695-->
-B1: g17954: ZN
-B2: PIN: R_IN_REG_3__SCAN_IN
-A1: g17728: ZN
-A2: g17931: ZN
-
-Cell: g17770-->
-B1: g17917: ZN
-B2: g17911: ZN
-A1: g17881: ZN
-A2: g17809: ZN
-
-Cell: g17713-->
-C1: g17878: ZN
-B2: g17814: ZN
-B1: g17752: ZN
-C2: PIN: R_IN_REG_3__SCAN_IN
-A1: g17765: ZN
-A2: g17887: ZN
-
-Cell: g17930-->
-A1: g17954: ZN
-A2: PIN: STATO_REG_3__SCAN_IN
-
-Cell: g17650-->
-A: g17667: ZN
-B: g17954: ZN
-
-Cell: g17771-->
-A1: g17807: ZN
-A2: PIN: CONT1_REG_4__SCAN_IN
-B1: g17865: ZN
-B2: PIN: X_OUT_REG_4__SCAN_IN
-
-Cell: g17651-->
-A: g17736: ZN
-B: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17676-->
-B1: g17712: ZN
-B2: g17820: ZN
-A1: g17713: ZN
-A2: g17774: ZN
-
-Cell: g17810-->
-A1: g17852: ZN
-A2: g17902: ZN
-
-Cell: g17710-->
-A: g17730: ZN
-B1: g17782: ZN
-B2: g17862: ZN
-
-Cell: g17648-->
-B: g17840: S
-A: g17674: ZN
-
-Cell: g17625-->
-C1: g17696: ZN
-A: g17629: ZN
-B: g17657: ZN
-C2: g17781: ZN
-
-Cell: g17662-->
-A1: g17684: ZN
-A2: PIN: CONT_REG_2__SCAN_IN
-
-Cell: g17670-->
-A: g17684: ZN
-B1: FE_OFC14_n_248: Z
-B2: g17956: ZN
-
-Cell: g17929-->
-A2: PIN: R_IN_REG_2__SCAN_IN
-A1: PIN: R_IN_REG_3__SCAN_IN
-
-Cell: g17620-->
-B2: g17871: ZN
-B1: g17650: ZN
-A: g17624: ZN
-C2: g17930: ZN
-C1: g17680: ZN
-
-Cell: g17898-->
-A: g17906: ZN
-
-Cell: g17904-->
-A2: PIN: CONT_REG_2__SCAN_IN
-A1: PIN: CONT_REG_3__SCAN_IN
-
-Cell: FE_OFC16_n_344-->
-A: g17734: ZN
-
-Cell: g17872-->
-A1: g17907: ZN
-A2: g17940: ZN
-
-Cell: g17626-->
-A1: g17643: ZN
-A2: g17630: ZN
-
-Cell: g17821-->
-A: g17828: ZN
-
-Cell: FE_OFC17_n_113-->
-A: g17855: ZN
-
-Cell: g17737-->
-A: FE_OFC14_n_248: Z
-
-Cell: g17624-->
-A: g17679: ZN
-B2: g17885: ZN
-B1: g17636: S
-C2: PIN: CONT_REG_5__SCAN_IN
-C1: g17880: ZN
-
-Cell: g17696-->
-A: g17720: ZN
-B: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: FE_OFC15_n_330-->
-A: g17653: ZN
-
-Cell: g17639-->
-A: g17643: ZN
-B1: FE_OFC15_n_330: Z
-B2: g17863: ZN
-
-Cell: g17873-->
-A1: g17919: ZN
-A2: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17694-->
-A: g17712: ZN
-B: g17843: ZN
-C2: PIN: R_IN_REG_5__SCAN_IN
-C1: g17870: ZN
-
-Cell: g17836-->
-A: g17921: ZN
-
-Cell: g17644-->
-A2: g17871: ZN
-A1: FE_OFC15_n_330: Z
-
-Cell: g17749-->
-C1: g17885: ZN
-A: g17793: ZN
-B1: g17880: ZN
-B2: PIN: CONT_REG_1__SCAN_IN
-C2: g17837: S
-
-Cell: g17911-->
-A1: PIN: STATO_REG_2__SCAN_IN
-A2: PIN: STBI
-
-Cell: g17744-->
-A1: g17772: ZN
-A2: g17873: ZN
-A3: g17926: ZN
-
-Cell: g17830-->
-B1: g17901: ZN
-B2: PIN: R_IN_REG_3__SCAN_IN
-A1: g17886: ZN
-A2: PIN: CONT_REG_3__SCAN_IN
-
-Cell: g17708-->
-A: g17715: ZN
-B2: PIN: CONT_REG_0__SCAN_IN
-B1: g17759: ZN
-
-Cell: g17739-->
-A1: g17817: ZN
-A2: PIN: CONT1_REG_4__SCAN_IN
-
-Cell: g17867-->
-A: g17880: ZN
-
-Cell: g17916-->
-A1: g17943: ZN
-A2: g17947: ZN
-
-Cell: g17638-->
-A: g17660: ZN
-C1: FE_OFC15_n_330: Z
-B: g17644: ZN
-C2: g17875: ZN
-
-Cell: g17826-->
-B1: g17945: ZN
-B2: g17906: ZN
-A: g17921: ZN
-
-Cell: g17901-->
-A: g17909: ZN
-
-Cell: g17690-->
-B2: g17766: ZN
-B1: FE_OFC16_n_344: Z
-A: g17945: ZN
-
-Cell: g17663-->
-A1: g17680: ZN
-A2: g17936: ZN
-
-Cell: g17767-->
-A1: g17807: ZN
-A2: PIN: CONT1_REG_3__SCAN_IN
-B1: g17865: ZN
-B2: PIN: X_OUT_REG_3__SCAN_IN
-
-Cell: g17882-->
-A: g17887: ZN
-
-Cell: g17683-->
-B1: g17727: ZN
-B2: g17904: ZN
-A: g17707: ZN
-
-Cell: g17636-->
-A: g17651: CO
-B: PIN: CONT1_REG_6__SCAN_IN
-
-Cell: g17798-->
-B1: g17839: S
-B2: FE_OFC17_n_113: Z
-A1: g17838: ZN
-A2: g17851: ZN
-
-Cell: g17928-->
-A1: g17941: ZN
-A2: g17944: ZN
-
-Cell: g17773-->
-C1: g17802: ZN
-B: g17917: ZN
-C2: g17941: ZN
-A: g17881: ZN
-
-Cell: g17699-->
-A1: g17716: ZN
-A2: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17711-->
-A: g17721: ZN
-B2: g17922: ZN
-B1: g17751: S
-C2: g17795: ZN
-C1: g17825: ZN
-
-Cell: g17842-->
-A1: g17872: ZN
-A2: g17909: ZN
-
-Cell: g17847-->
-A2: g17927: ZN
-A1: g17891: ZN
-
-Cell: g17812-->
-A2: g17916: ZN
-A1: g17840: CO
-
-Cell: g17622-->
-A: g17663: ZN
-C1: g17667: ZN
-B1: g17626: ZN
-B2: PIN: CONT1_REG_7__SCAN_IN
-C2: g17818: ZN
-
-Cell: g17640-->
-B2: g17725: ZN
-B1: g17669: ZN
-A: g17745: ZN
-C1: FE_OFC16_n_344: Z
-C2: g17948: ZN
-
-Cell: g17623-->
-C2: g17949: ZN
-B: g17627: ZN
-A: PIN: CONT1_REG_8__SCAN_IN
-C1: g17665: ZN
-
-Cell: g17685-->
-B2: g17917: ZN
-B1: g17723: ZN
-A: g17743: ZN
-C2: PIN: R_IN_REG_5__SCAN_IN
-C1: g17800: ZN
-
-Cell: g17795-->
-A1: g17941: ZN
-A2: PIN: CONT1_REG_1__SCAN_IN
-B3: PIN: CONT1_REG_1__SCAN_IN
-B1: g17945: ZN
-B2: PIN: R_IN_REG_2__SCAN_IN
-A3: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17951-->
-A: PIN: STATO_REG_1__SCAN_IN
-
-Cell: g17871-->
-A1: g17907: ZN
-A2: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17691-->
-C2: g17922: ZN
-A: g17719: ZN
-B2: g17781: ZN
-B1: g17761: ZN
-C1: g17714: ZN
-
-Cell: g17706-->
-A: g17708: ZN
-
-Cell: g17764-->
-C1: g17811: ZN
-B: g17839: S
-C2: g17921: ZN
-A: g17899: ZN
-
-Cell: g17859-->
-C1: g17912: ZN
-A: PIN: CONT1_REG_4__SCAN_IN
-C2: PIN: CONT1_REG_2__SCAN_IN
-B: PIN: CONT1_REG_3__SCAN_IN
-
-Cell: g17896-->
-A: g17903: ZN
-
-Cell: g17637-->
-A3: g17866: ZN
-B2: g17802: ZN
-B1: g17696: ZN
-A2: g17725: ZN
-A1: g17648: Z
-B3: g17919: ZN
-
-Cell: g17912-->
-A1: g17938: ZN
-A2: g17940: ZN
-
-Cell: g17618-->
-A4: g17725: ZN
-A1: g17644: ZN
-A2: g17686: ZN
-A3: g17628: ZN
-
-Cell: g17716-->
-A1: g17747: ZN
-A2: g17889: ZN
-
-Cell: g17660-->
-B1: g17778: ZN
-B2: PIN: CONT1_REG_7__SCAN_IN
-A1: g17688: ZN
-A2: g17780: ZN
-
-Cell: g17738-->
-A1: g17759: ZN
-A2: PIN: CONT_REG_5__SCAN_IN
-
-Cell: g17831-->
-S: g17883: ZN
-B: PIN: X_IN_5_
-A: PIN: R_IN_REG_5__SCAN_IN
-
-Cell: g17745-->
-A3: PIN: R_IN_REG_2__SCAN_IN
-A2: g17803: CO
-A1: g17798: ZN
-
-Cell: g17657-->
-A3: g17840: S
-A2: g17863: ZN
-A1: g17668: ZN
-
-Cell: FE_OFC14_n_248-->
-A: g17742: ZN
-
-Cell: g17642-->
-B2: g17907: ZN
-B1: g17676: ZN
-A: g17655: ZN
-C2: g17779: ZN
-C1: g17735: ZN
-
-Cell: g17665-->
-A2: g17776: ZN
-A1: g17688: ZN
-
-Cell: g17697-->
-B: g17954: ZN
-A: g17728: ZN
-
-Cell: g17613-->
-A2: g17725: ZN
-A1: g17615: ZN
-C2: g17954: ZN
-C1: FE_OFC16_n_344: Z
-B1: g17649: ZN
-B2: g17704: ZN
-
-Cell: g17631-->
-A: g17632: ZN
-
-Cell: g17791-->
-C1: g17886: ZN
-B1: g17880: ZN
-B2: PIN: CONT_REG_0__SCAN_IN
-A1: g17901: ZN
-A2: PIN: R_IN_REG_1__SCAN_IN
-C2: PIN: CONT_REG_1__SCAN_IN
-
-Cell: g17687-->
-A: g17694: ZN
-
-Cell: g17680-->
-A2: g17922: ZN
-A1: g17699: ZN
-
-Cell: g17621-->
-B1: g17634: ZN
-B2: PIN: CONT1_REG_8__SCAN_IN
-A: g17623: ZN
-
-Cell: g17780-->
-A1: g17803: CO
-A2: g17944: ZN
-
-Cell: g17746-->
-B1: g17863: ZN
-B2: g17845: ZN
-A2: g17781: ZN
-A1: g17801: ZN
-
-Cell: g17656-->
-B1: g17709: ZN
-B2: g17938: ZN
-A2: g17725: ZN
-A1: g17681: ZN
-
-Cell: g17653-->
-C1: g17954: ZN
-B: g17667: ZN
-C2: PIN: CONT1_REG_7__SCAN_IN
-A: g17895: ZN
-
-Cell: g17646-->
-A1: g17670: ZN
-A2: g17953: ZN
-B1: g17727: ZN
-B2: g17914: ZN
-
-Cell: g17709-->
-A: g17725: ZN
-C1: g17875: ZN
-B1: g17907: ZN
-B2: g17898: ZN
-C2: g17940: ZN
-
-Cell: g17633-->
-C1: g17725: ZN
-A: g17637: ZN
-C2: PIN: CONT1_REG_5__SCAN_IN
-B1: g17652: ZN
-B2: g17705: ZN
-
-Cell: g17866-->
-A: g17875: ZN
-
-Cell: g17652-->
-A2: g17840: S
-A1: g17668: ZN
-
-Cell: g17724-->
-A: g17732: ZN
-
-Cell: g17862-->
-A: g17868: ZN
-
-Cell: g17888-->
-A2: PIN: R_IN_REG_0__SCAN_IN
-A1: PIN: R_IN_REG_1__SCAN_IN
-A4: PIN: R_IN_REG_5__SCAN_IN
-A3: PIN: R_IN_REG_4__SCAN_IN
-
-Cell: g17616-->
-A: g17621: ZN
-B2: g17725: ZN
-B1: g17631: ZN
-C1: FE_OFC16_n_344: Z
-C2: g17955: ZN
-
-Cell: g17659-->
-A: g17695: ZN
-B: PIN: CONT1_REG_7__SCAN_IN
-
-Cell: g17667-->
-A: g17687: ZN
-C1: g17757: ZN
-B1: g17870: ZN
-B2: PIN: R_IN_REG_5__SCAN_IN
-C2: PIN: R_IN_REG_4__SCAN_IN
-
-Cell: g17689-->
-A: PIN: CONT1_REG_0__SCAN_IN
-B1: g17725: ZN
-B2: g17773: ZN
-
-Cell: g17677-->
-A: g17682: ZN
-
-Cell: g17661-->
-A1: g17688: ZN
-A2: PIN: R_IN_REG_3__SCAN_IN
-B1: g17944: ZN
-B2: PIN: CONT1_REG_7__SCAN_IN
-
-Cell: g17668-->
-B1: g17950: ZN
-B2: g17939: ZN
-A: g17682: ZN
-
-Cell: g17614-->
-A2: g17725: ZN
-A1: g17617: ZN
-B2: g17949: ZN
-B1: g17618: ZN
-
-Cell: g17674-->
-B1: g17950: ZN
-B2: PIN: R_IN_REG_4__SCAN_IN
-A: g17677: ZN
-
-Cell: g17615-->
-C2: g17776: ZN
-B: g17620: ZN
-C1: g17697: ZN
-A: g17664: ZN
-
-Cell: g17935-->
-A: PIN: CONT_REG_1__SCAN_IN
-
-Cell: g17705-->
-A1: g17725: ZN
-A2: g17871: ZN
-
-Cell: g17927-->
-A1: g17952: ZN
-A2: PIN: CONT1_REG_0__SCAN_IN
-
-Cell: g17692-->
-A: g17725: ZN
-B1: g17726: ZN
-B2: g17803: CO
-
-Cell: g17801-->
-B: g17945: ZN
-A: g17861: ZN
-
-Cell: g17619-->
-B2: g17725: ZN
-B1: g17625: ZN
-A: g17633: ZN
-
-Cell: g17863-->
-A: g17871: ZN
-
-Cell: g17649-->
-A: g17650: ZN
-
-Cell: g17704-->
-A2: g17875: ZN
-A1: FE_OFC16_n_344: Z
-
-Cell: g17664-->
-A2: g17778: ZN
-A1: g17697: ZN
-
-Cell: g17806-->
-A: g17815: ZN
-
-Cell: g17628-->
-A: g17877: ZN
-B1: g17636: CO
-B2: g17881: ZN
-
-Cell: g17781-->
-A1: g17802: ZN
-A2: g17928: ZN
-
-Cell: g17817-->
-A1: g17948: ZN
-A2: g17921: ZN
-
-Cell: g17787-->
-A1: g17842: ZN
-A2: PIN: R_IN_REG_0__SCAN_IN
-B1: g17886: ZN
-B2: PIN: CONT_REG_0__SCAN_IN
-
-Cell: g17815-->
-A2: g17955: ZN
-A1: g17844: ZN
-
-Cell: g17747-->
-B2: g17936: ZN
-B1: g17923: ZN
-C2: PIN: STATO_REG_3__SCAN_IN
-C1: PIN: CONT1_REG_3__SCAN_IN
-A1: g17858: ZN
-A2: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17774-->
-A: g17820: ZN
-
-Cell: g17845-->
-A2: g17906: ZN
-A1: g17891: ZN
-
-Cell: g17658-->
-B1: g17727: ZN
-B2: PIN: CONT_REG_2__SCAN_IN
-A: g17662: ZN
-
-Cell: g17777-->
-A2: g17868: ZN
-A1: g17819: ZN
-
-Cell: g17778-->
-A1: g17803: CO
-A2: PIN: R_IN_REG_3__SCAN_IN
-
-Cell: g17785-->
-A3: PIN: STATO_REG_1__SCAN_IN
-A2: g17937: ZN
-A1: g17819: ZN
-
-Cell: g17788-->
-A3: g17940: ZN
-A1: g17803: CO
-A2: g17941: ZN
-
-Cell: g17797-->
-B1: g17886: ZN
-B2: PIN: CONT_REG_2__SCAN_IN
-A1: g17875: ZN
-A2: g17847: ZN
-
-Cell: g17751-->
-B: g17945: ZN
-A: g17858: ZN
-
-Cell: g17915-->
-A1: PIN: CONT1_REG_5__SCAN_IN
-A2: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17816-->
-A1: g17859: ZN
-A2: g17943: ZN
-
-Cell: g17907-->
-A1: g17951: ZN
-A2: g17946: ZN
-
-Cell: g17949-->
-A: PIN: CONT1_REG_7__SCAN_IN
-
-Cell: g17940-->
-A: PIN: CONT1_REG_0__SCAN_IN
-
-Cell: g17879-->
-A: g17915: ZN
-B2: PIN: R_IN_REG_5__SCAN_IN
-B1: PIN: CONT1_REG_5__SCAN_IN
-
-Cell: g17841-->
-A1: g17873: ZN
-A2: g17925: ZN
-
-Cell: g17948-->
-A: PIN: CONT1_REG_3__SCAN_IN
-
-Cell: g17684-->
-A: g17701: ZN
-B2: PIN: CONT_REG_1__SCAN_IN
-B1: g17737: ZN
-
-Cell: g17953-->
-A: PIN: CONT_REG_3__SCAN_IN
-
-Cell: g17790-->
-C1: g17886: ZN
-B1: g17880: ZN
-B2: PIN: CONT_REG_3__SCAN_IN
-A1: g17901: ZN
-A2: PIN: R_IN_REG_4__SCAN_IN
-C2: PIN: CONT_REG_4__SCAN_IN
-
-Cell: g17802-->
-A: g17803: CO
-
-Cell: g17804-->
-A: g17808: ZN
-
-Cell: g17811-->
-A1: g17860: ZN
-A2: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17805-->
-A: g17813: ZN
-
-Cell: g17921-->
-A1: PIN: CONT1_REG_1__SCAN_IN
-A2: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17824-->
-A3: PIN: CONT1_REG_3__SCAN_IN
-A1: g17861: ZN
-A2: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17763-->
-B3: g17941: ZN
-A1: g17838: ZN
-A2: g17826: ZN
-A3: PIN: R_IN_REG_2__SCAN_IN
-B1: g17839: S
-B2: g17804: ZN
-
-Cell: g17822-->
-A3: PIN: STATO_REG_1__SCAN_IN
-A1: g17856: ZN
-A2: g17905: ZN
-
-Cell: g17850-->
-A: g17854: ZN
-
-Cell: g17823-->
-A2: g17928: ZN
-A1: FE_OFC17_n_113: Z
-A3: g17929: ZN
-
-Cell: g17820-->
-A: g17843: ZN
-B1: g17890: ZN
-B2: g17939: ZN
-
-Cell: g17828-->
-B1: g17901: ZN
-B2: PIN: R_IN_REG_5__SCAN_IN
-A1: g17886: ZN
-A2: PIN: CONT_REG_5__SCAN_IN
-
-Cell: g17854-->
-A: PIN: R_IN_REG_2__SCAN_IN
-B1: g17900: ZN
-B2: g17902: ZN
-
-Cell: g17897-->
-A: g17905: ZN
-
-Cell: g17736-->
-A: g17739: ZN
-
-Cell: g17643-->
-A2: g17866: ZN
-A1: FE_OFC15_n_330: Z
-
-Cell: g17868-->
-A2: g17951: ZN
-A1: g17909: ZN
-
-Cell: g17910-->
-A1: PIN: R_IN_REG_0__SCAN_IN
-A2: PIN: R_IN_REG_4__SCAN_IN
-
-Cell: g17891-->
-A2: g17941: ZN
-A1: g17945: ZN
-B2: PIN: R_IN_REG_2__SCAN_IN
-B1: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17793-->
-A2: g17938: ZN
-A1: g17899: ZN
-A3: PIN: R_IN_REG_2__SCAN_IN
-A4: PIN: CONT1_REG_2__SCAN_IN
-
-Cell: g17814-->
-A1: g17933: ZN
-A2: g17839: CO
-
-Cell: g17878-->
-A2: g17933: ZN
-A1: g17932: ZN
-
-Cell: g17869-->
-A1: g17905: ZN
-A2: g17910: ZN
-
-Cell: g17753-->
-A2: g17802: ZN
-A1: g17777: ZN
-
-Cell: g17931-->
-A1: g17944: ZN
-A2: PIN: CONT1_REG_6__SCAN_IN
-
-Cell: g17819-->
-A2: g17928: ZN
-A1: g17869: ZN
-B1: g17888: ZN
-B2: g17929: ZN
-
-Cell: g17827-->
-B2: g17945: ZN
-B1: g17927: ZN
-A: g17921: ZN
-
-Cell: g17722-->
-A: g17764: ZN
-B2: g17863: ZN
-B1: g17763: ZN
-
-Cell: g17809-->
-A2: g17955: ZN
-A1: g17913: ZN
-
-Cell: g17838-->
-A: g17839: S
-
-Cell: g17832-->
-S: g17883: ZN
-B: PIN: X_IN_3_
-A: PIN: R_IN_REG_3__SCAN_IN
-
-Cell: g17732-->
-C1: g17865: ZN
-A2: g17751: S
-A1: g17815: ZN
-B1: g17807: ZN
-B2: PIN: CONT1_REG_2__SCAN_IN
-C2: PIN: X_OUT_REG_2__SCAN_IN
-
-Cell: g17848-->
-A1: g17884: ZN
-A2: PIN: CONT_REG_4__SCAN_IN
-A3: PIN: CONT_REG_3__SCAN_IN
-
-Cell: g17918-->
-A: g17923: ZN
-
-Cell: g17853-->
-B1: g17928: ZN
-B2: g17908: ZN
-A: g17929: ZN
-
-Cell: g17829-->
-S: g17883: ZN
-B: PIN: X_IN_2_
-A: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17864-->
-A: g17872: ZN
-
-Cell: g17874-->
-A1: g17899: ZN
-A2: PIN: STATO_REG_2__SCAN_IN
-
-Cell: g17647-->
-A3: g17690: ZN
-A2: g17673: ZN
-A1: g17672: ZN
-
-Cell: g17834-->
-S: g17883: ZN
-B: PIN: X_IN_4_
-A: PIN: R_IN_REG_4__SCAN_IN
-
-Cell: g17833-->
-S: g17883: ZN
-B: PIN: X_IN_0_
-A: PIN: R_IN_REG_0__SCAN_IN
-
-Cell: g17883-->
-A3: PIN: STATO_REG_1__SCAN_IN
-A1: PIN: STATO_REG_3__SCAN_IN
-A2: PIN: STATO_REG_2__SCAN_IN
-
-Cell: g17851-->
-A: FE_OFC17_n_113: Z
-
-Cell: g17849-->
-A3: PIN: R_IN_REG_2__SCAN_IN
-A2: g17944: ZN
-A1: g17862: ZN
-
-Cell: g17855-->
-C1: g17941: ZN
-C2: PIN: CONT1_REG_0__SCAN_IN
-A: PIN: CONT1_REG_2__SCAN_IN
-B1: g17929: ZN
-B2: PIN: CONT1_REG_1__SCAN_IN
-
-Cell: g17666-->
-C1: g17725: ZN
-A: g17689: ZN
-C2: g17787: ZN
-B: g17755: ZN
-
-Cell: g17856-->
-B1: g17941: ZN
-B2: PIN: R_IN_REG_3__SCAN_IN
-A1: g17910: ZN
-A2: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17627-->
-A: g17630: ZN
-B2: g17803: CO
-B1: g17661: ZN
-
-Cell: g17857-->
-A2: g17936: ZN
-A1: g17923: ZN
-B2: PIN: CONT1_REG_3__SCAN_IN
-B1: PIN: STATO_REG_3__SCAN_IN
-
-Cell: g17861-->
-B1: g17938: ZN
-B2: PIN: R_IN_REG_3__SCAN_IN
-A1: g17908: ZN
-A2: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17881-->
-A: g17885: ZN
-
-Cell: g17887-->
-B1: g17944: ZN
-B2: PIN: CONT1_REG_3__SCAN_IN
-A: g17932: ZN
-
-Cell: g17634-->
-A: g17638: ZN
-B1: g17661: ZN
-B2: g17802: ZN
-
-Cell: g17877-->
-A2: g17922: ZN
-A1: g17930: ZN
-
-Cell: g17789-->
-A: g17795: ZN
-
-Cell: g17840-->
-A: g17943: ZN
-B: PIN: R_IN_REG_5__SCAN_IN
-
-Cell: g17839-->
-A: g17944: ZN
-B: g17948: ZN
-
-Cell: g17884-->
-A1: g17956: ZN
-A2: g17934: ZN
-A3: g17935: ZN
-
-Cell: g17825-->
-A: g17872: ZN
-B1: g17866: ZN
-B2: g17952: ZN
-
-Cell: g17645-->
-A1: g17659: ZN
-A2: g17778: ZN
-
-Cell: g17837-->
-A: g17938: ZN
-B: g17945: ZN
-
-Cell: g17880-->
-A3: PIN: STATO_REG_2__SCAN_IN
-A1: g17952: ZN
-A2: g17946: ZN
-
-Cell: g17885-->
-A3: PIN: STATO_REG_0__SCAN_IN
-A2: g17951: ZN
-A1: g17937: ZN
-
-Cell: g17924-->
-A2: PIN: CONT1_REG_1__SCAN_IN
-A1: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17894-->
-B1: g17954: ZN
-B2: PIN: CONT1_REG_7__SCAN_IN
-A1: g17949: ZN
-A2: PIN: CONT1_REG_6__SCAN_IN
-
-Cell: g17889-->
-B1: g17950: ZN
-B2: g17936: ZN
-A2: PIN: CONT1_REG_4__SCAN_IN
-A1: PIN: STATO_REG_3__SCAN_IN
-
-Cell: g17890-->
-A2: g17950: ZN
-A1: g17947: ZN
-B1: PIN: R_IN_REG_1__SCAN_IN
-B2: PIN: CONT1_REG_4__SCAN_IN
-
-Cell: g17654-->
-A: g17768: ZN
-B2: g17806: ZN
-B1: g17678: ZN
-
-Cell: g17892-->
-A1: g17952: ZN
-A2: PIN: R_IN_REG_2__SCAN_IN
-B1: g17941: ZN
-B2: PIN: R_IN_REG_0__SCAN_IN
-
-Cell: g17893-->
-B1: g17944: ZN
-B2: PIN: R_IN_REG_4__SCAN_IN
-A1: g17947: ZN
-A2: PIN: R_IN_REG_3__SCAN_IN
-
-Cell: g17629-->
-A: g17680: ZN
-C1: g17700: ZN
-C2: g17917: ZN
-B: g17641: ZN
-
-Cell: g17808-->
-A1: g17837: CO
-A2: g17906: ZN
-
-Cell: g17899-->
-A: g17907: ZN
-
-Cell: g17807-->
-A1: g17844: ZN
-A2: PIN: CONT1_REG_8__SCAN_IN
-
-Cell: g17919-->
-A: g17928: ZN
-
-Cell: g17902-->
-A: g17912: ZN
-
-Cell: g17903-->
-A1: g17951: ZN
-A2: g17946: ZN
-
-Cell: g17913-->
-A1: g17949: ZN
-A2: g17954: ZN
-
-Cell: g17886-->
-A3: PIN: R_IN_REG_0__SCAN_IN
-A1: g17946: ZN
-A2: PIN: STATO_REG_2__SCAN_IN
-
-Cell: g17769-->
-A1: g17807: ZN
-A2: PIN: CONT1_REG_1__SCAN_IN
-B1: g17865: ZN
-B2: PIN: X_OUT_REG_1__SCAN_IN
-
-Cell: g17799-->
-B1: g17851: ZN
-B2: g17948: ZN
-A1: FE_OFC17_n_113: Z
-A2: PIN: CONT1_REG_3__SCAN_IN
-
-Cell: g17932-->
-A1: g17947: ZN
-A2: PIN: CONT1_REG_3__SCAN_IN
-
-Cell: g17922-->
-A1: g17946: ZN
-A2: PIN: STATO_REG_1__SCAN_IN
-
-Cell: g17729-->
-A: g17739: ZN
-B2: PIN: CONT1_REG_4__SCAN_IN
-B1: g17817: ZN
-
-Cell: g17933-->
-A1: g17948: ZN
-A2: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17865-->
-A: g17874: ZN
-
-Cell: g17900-->
-A: g17908: ZN
-
-Cell: g17715-->
-A1: g17737: ZN
-A2: PIN: CONT_REG_0__SCAN_IN
-
-Cell: g17926-->
-A2: PIN: CONT1_REG_4__SCAN_IN
-A1: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17908-->
-A2: PIN: CONT1_REG_0__SCAN_IN
-A1: PIN: CONT1_REG_1__SCAN_IN
-
-Cell: g17941-->
-A: PIN: R_IN_REG_2__SCAN_IN
-
-Cell: g17906-->
-A1: PIN: CONT1_REG_0__SCAN_IN
-A2: PIN: R_IN_REG_0__SCAN_IN
-
-Cell: g17923-->
-A2: PIN: CONT1_REG_2__SCAN_IN
-A1: PIN: CONT1_REG_3__SCAN_IN
-
-Cell: g17955-->
-A: PIN: CONT1_REG_8__SCAN_IN
-
-Cell: g17766-->
-A2: g17803: CO
-A1: g17861: ZN
-A3: g17928: ZN
-
-Cell: g17813-->
-A2: g17837: CO
-A1: g17927: ZN
-
-Cell: g17952-->
-A: PIN: R_IN_REG_0__SCAN_IN
-
-Cell: g17934-->
-A: PIN: CONT_REG_0__SCAN_IN
-
-Cell: g17835-->
-S: g17883: ZN
-B: PIN: X_IN_1_
-A: PIN: R_IN_REG_1__SCAN_IN
-
-Cell: g17936-->
-A: PIN: STATO_REG_3__SCAN_IN
-
-Cell: g17679-->
-A1: g17699: ZN
-A2: g17877: ZN
-
-Cell: g17844-->
-A1: g17874: ZN
-A2: PIN: STATO_REG_3__SCAN_IN
-
-Cell: g17937-->
-A: PIN: STATO_REG_2__SCAN_IN
-
-Cell: g17950-->
-A: PIN: CONT1_REG_4__SCAN_IN
-
-Pin: U633-->
-g17710: ZN
-
-Pin: U686-->
-g17803: S
-
-Pin: U629-->
-g17654: ZN
-
-Pin: U694-->
-g17656: ZN
-
-Pin: U697-->
-g17640: ZN
-
-Pin: U698-->
-g17635: ZN
-
-Pin: U699-->
-g17619: ZN
-
-Pin: U627-->
-g17693: ZN
-
-Pin: U701-->
-g17614: ZN
-
-Pin: U703-->
-g17706: ZN
-
-Pin: U704-->
-g17675: ZN
-
-Pin: U630-->
-g17658: ZN
-
-Pin: U705-->
-g17646: ZN
-
-Pin: U634-->
-g17683: ZN
-
-Pin: U635-->
-g17738: ZN
-
-Pin: U708-->
-g17829: Z
-
-Pin: U625-->
-g17748: ZN
-
-Pin: U709-->
-g17832: Z
-
-Pin: U711-->
-g17831: Z
-
-Pin: U628-->
-g17671: ZN
-
-Pin: U624-->
-g17796: ZN
-
-Pin: U700-->
-g17613: ZN
-
-Pin: U707-->
-g17835: Z
-
-Pin: U696-->
-g17647: ZN
-
-Pin: U710-->
-g17834: Z
-
-Pin: U702-->
-g17616: ZN
-
-Pin: U632-->
-g17685: ZN
-
-Pin: U693-->
-g17666: ZN
-
-Pin: U631-->
-g17753: ZN
-
-Pin: U626-->
-g17724: ZN
-
-Pin: U706-->
-g17833: Z
-
+ 
+ A : (FEOL) : g17855 , ZN 
+ 
+ 
+ A : (FEOL) : g17734 , ZN 
+ 
+ 
+ A : (FEOL) : g17653 , ZN 
+ 
+ 
+ A : (FEOL) : g17742 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17617 , ZN 
+ A2 : (BEOL) : g17725 , ZN 
+ B1 : (FEOL) : g17618 , ZN 
+ B2 : (FEOL) : g17949 , ZN 
+ 
+ 
+ A : (FEOL) : g17621 , ZN 
+ B1 : (FEOL) : g17631 , ZN 
+ B2 : (BEOL) : g17725 , ZN 
+ C1 : (BEOL) : g17699 , ZN 
+ C2 : (FEOL) : g17955 , ZN 
+ 
+ 
+ A : (FEOL) : g17645 , ZN 
+ B : (FEOL) : g17622 , ZN 
+ C1 : (FEOL) : g17659 , ZN 
+ C2 : (BEOL) : g17796 , ZN 
+ 
+ 
+ A : (FEOL) : g17623 , ZN 
+ B1 : (FEOL) : g17634 , ZN 
+ B2 : (FEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17615 , ZN 
+ A2 : (FEOL) : g17725 , ZN 
+ B1 : (FEOL) : g17649 , ZN 
+ B2 : (FEOL) : g17704 , ZN 
+ C1 : (BEOL) : g17776 , ZN 
+ C2 : (BEOL) : g17954 , ZN 
+ 
+ 
+ A : (FEOL) : g17663 , ZN 
+ B1 : (FEOL) : g17626 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ C1 : (BEOL) : g17667 , ZN 
+ C2 : (FEOL) : g17818 , ZN 
+ 
+ 
+ A : (FEOL) : g17632 , ZN 
+ 
+ 
+ A : (FEOL) : g17664 , ZN 
+ B : (FEOL) : g17620 , ZN 
+ C1 : (FEOL) : g17697 , ZN 
+ C2 : (FEOL) : g17776 , ZN 
+ 
+ 
+ A : (FEOL) : g17663 , ZN 
+ B1 : (FEOL) : g17639 , ZN 
+ B2 : (FEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17633 , ZN 
+ B1 : (FEOL) : g17625 , ZN 
+ B2 : (FEOL) : g17725 , ZN 
+ 
+ 
+ A : (FEOL) : g17638 , ZN 
+ B1 : (FEOL) : g17661 , ZN 
+ B2 : (BEOL) : g17802 , ZN 
+ 
+ 
+ A : (FEOL) : g17660 , ZN 
+ B : (FEOL) : g17644 , ZN 
+ C1 : (FEOL) : FE_OFC15_n_330 , Z 
+ C2 : (FEOL) : g17875 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17644 , ZN 
+ A2 : (FEOL) : g17686 , ZN 
+ A3 : (FEOL) : g17628 , ZN 
+ A4 : (BEOL) : g17725 , ZN 
+ 
+ 
+ A : (FEOL) : g17637 , ZN 
+ B1 : (FEOL) : g17652 , ZN 
+ B2 : (FEOL) : g17705 , ZN 
+ C1 : (FEOL) : g17725 , ZN 
+ C2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17643 , ZN 
+ B1 : (FEOL) : FE_OFC15_n_330 , Z 
+ B2 : (BEOL) : g17863 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17643 , ZN 
+ A2 : (BEOL) : g17630 , ZN 
+ 
+ 
+ A : (FEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ B : (FEOL) : g17627 , ZN 
+ C1 : (FEOL) : g17665 , ZN 
+ C2 : (FEOL) : g17949 , ZN 
+ 
+ 
+ A : (FEOL) : g17624 , ZN 
+ B1 : (FEOL) : g17650 , ZN 
+ B2 : (FEOL) : g17871 , ZN 
+ C1 : (FEOL) : g17680 , ZN 
+ C2 : (FEOL) : g17930 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17670 , ZN 
+ A2 : (FEOL) : g17953 , ZN 
+ B1 : (FEOL) : g17727 , ZN 
+ B2 : (FEOL) : g17914 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17672 , ZN 
+ A2 : (FEOL) : g17673 , ZN 
+ A3 : (FEOL) : g17690 , ZN 
+ 
+ 
+ A1 : (FEOL) : FE_OFC15_n_330 , Z 
+ A2 : (FEOL) : g17866 , ZN 
+ 
+ 
+ A1 : (FEOL) : FE_OFC15_n_330 , Z 
+ A2 : (FEOL) : g17871 , ZN 
+ 
+ 
+ A : (FEOL) : g17662 , ZN 
+ B1 : (FEOL) : g17727 , ZN 
+ B2 : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17648 , Z 
+ A2 : (FEOL) : g17725 , ZN 
+ A3 : (FEOL) : g17866 , ZN 
+ B1 : (BEOL) : g17696 , ZN 
+ B2 : (FEOL) : g17802 , ZN 
+ B3 : (BEOL) : g17919 , ZN 
+ 
+ 
+ A : (FEOL) : g17630 , ZN 
+ B1 : (FEOL) : g17661 , ZN 
+ B2 : (FEOL) : g17803 , CO 
+ 
+ 
+ A : (FEOL) : g17650 , ZN 
+ 
+ 
+ A : (FEOL) : g17745 , ZN 
+ B1 : (FEOL) : g17669 , ZN 
+ B2 : (FEOL) : g17725 , ZN 
+ C1 : (BEOL) : FE_OFC16_n_344 , Z 
+ C2 : (FEOL) : g17948 , ZN 
+ 
+ 
+ A : (FEOL) : g17629 , ZN 
+ B : (FEOL) : g17657 , ZN 
+ C1 : (BEOL) : g17696 , ZN 
+ C2 : (FEOL) : g17781 , ZN 
+ 
+ 
+ A : (FEOL) : g17684 , ZN 
+ B1 : (FEOL) : FE_OFC14_n_248 , Z 
+ B2 : (FEOL) : g17956 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17698 , ZN 
+ A2 : (FEOL) : g17789 , ZN 
+ A3 : (BEOL) : g17683 , ZN 
+ B1 : (FEOL) : g17802 , ZN 
+ B2 : (FEOL) : g17851 , ZN 
+ B3 : (FEOL) : g17919 , ZN 
+ 
+ 
+ A : (BEOL) : g17667 , ZN 
+ B : (BEOL) : g17954 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17642 , ZN 
+ A2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17692 , ZN 
+ B2 : (FEOL) : g17950 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17681 , ZN 
+ A2 : (FEOL) : g17725 , ZN 
+ B1 : (FEOL) : g17709 , ZN 
+ B2 : (FEOL) : g17938 , ZN 
+ 
+ 
+ A : (FEOL) : g17895 , ZN 
+ B : (BEOL) : g17667 , ZN 
+ C1 : (BEOL) : g17954 , ZN 
+ C2 : (FEOL) : CONT1_REG_7__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17684 , ZN 
+ A2 : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17659 , ZN 
+ A2 : (BEOL) : g17778 , ZN 
+ 
+ 
+ A : (FEOL) : g17674 , ZN 
+ B : (FEOL) : g17840 , S 
+ 
+ 
+ A1 : (FEOL) : g17701 , ZN 
+ A2 : (FEOL) : g17935 , ZN 
+ B1 : (FEOL) : g17737 , ZN 
+ B2 : (FEOL) : g17920 , ZN 
+ 
+ 
+ A : (FEOL) : g17689 , ZN 
+ B : (FEOL) : g17755 , ZN 
+ C1 : (FEOL) : g17725 , ZN 
+ C2 : (FEOL) : g17787 , ZN 
+ 
+ 
+ A : (FEOL) : g17701 , ZN 
+ B1 : (FEOL) : g17737 , ZN 
+ B2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17688 , ZN 
+ A2 : (FEOL) : g17780 , ZN 
+ B1 : (BEOL) : g17778 , ZN 
+ B2 : (FEOL) : CONT1_REG_7__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17688 , ZN 
+ A2 : (FEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17944 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17691 , ZN 
+ A2 : (FEOL) : g17722 , ZN 
+ A3 : (FEOL) : g17731 , ZN 
+ A4 : (FEOL) : g17783 , ZN 
+ 
+ 
+ A : (FEOL) : g17725 , ZN 
+ B1 : (FEOL) : g17711 , ZN 
+ B2 : (FEOL) : g17749 , ZN 
+ 
+ 
+ A : (FEOL) : g17655 , ZN 
+ B1 : (FEOL) : g17676 , ZN 
+ B2 : (BEOL) : g17907 , ZN 
+ C1 : (FEOL) : g17735 , ZN 
+ C2 : (FEOL) : g17779 , ZN 
+ 
+ 
+ A : (BEOL) : CONT1_REG_0__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17725 , ZN 
+ B2 : (FEOL) : g17773 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17668 , ZN 
+ A2 : (FEOL) : g17840 , S 
+ 
+ 
+ A : (FEOL) : g17705 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17668 , ZN 
+ A2 : (FEOL) : g17863 , ZN 
+ A3 : (FEOL) : g17840 , S 
+ 
+ 
+ A : (FEOL) : g17708 , ZN 
+ 
+ 
+ A : (FEOL) : g17725 , ZN 
+ B1 : (BEOL) : g17907 , ZN 
+ B2 : (FEOL) : g17898 , ZN 
+ C1 : (FEOL) : g17875 , ZN 
+ C2 : (FEOL) : g17940 , ZN 
+ 
+ 
+ A : (FEOL) : g17695 , ZN 
+ B : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17688 , ZN 
+ A2 : (BEOL) : g17796 , ZN 
+ 
+ 
+ A : (FEOL) : g17687 , ZN 
+ B1 : (FEOL) : g17870 , ZN 
+ B2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ C1 : (FEOL) : g17757 , ZN 
+ C2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17677 , ZN 
+ B1 : (BEOL) : g17950 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17945 , ZN 
+ B1 : (BEOL) : FE_OFC16_n_344 , Z 
+ B2 : (FEOL) : g17766 , ZN 
+ 
+ 
+ A : (BEOL) : g17725 , ZN 
+ B1 : (FEOL) : g17726 , ZN 
+ B2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17707 , ZN 
+ B1 : (FEOL) : g17727 , ZN 
+ B2 : (FEOL) : g17904 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17715 , ZN 
+ A2 : (FEOL) : g17759 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17725 , ZN 
+ A2 : (FEOL) : g17871 , ZN 
+ 
+ 
+ A : (FEOL) : g17715 , ZN 
+ B1 : (FEOL) : g17759 , ZN 
+ B2 : (BEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17697 , ZN 
+ A2 : (FEOL) : g17778 , ZN 
+ 
+ 
+ A : (FEOL) : g17682 , ZN 
+ B1 : (FEOL) : g17950 , ZN 
+ B2 : (FEOL) : g17939 , ZN 
+ 
+ 
+ A : (FEOL) : g17695 , ZN 
+ 
+ 
+ A : (FEOL) : g17743 , ZN 
+ B1 : (FEOL) : g17723 , ZN 
+ B2 : (BEOL) : g17944 , ZN 
+ C1 : (FEOL) : g17800 , ZN 
+ C2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17776 , ZN 
+ A2 : (FEOL) : g17875 , ZN 
+ 
+ 
+ A : (FEOL) : g17679 , ZN 
+ B1 : (FEOL) : g17636 , S 
+ B2 : (FEOL) : g17885 , ZN 
+ C1 : (FEOL) : g17880 , ZN 
+ C2 : (FEOL) : CONT_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17776 , ZN 
+ 
+ 
+ A : (BEOL) : g17728 , ZN 
+ B : (BEOL) : g17954 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17713 , ZN 
+ A2 : (FEOL) : g17774 , ZN 
+ B1 : (FEOL) : g17712 , ZN 
+ B2 : (FEOL) : g17820 , ZN 
+ 
+ 
+ A : (FEOL) : g17682 , ZN 
+ 
+ 
+ A : (FEOL) : g17877 , ZN 
+ B1 : (FEOL) : g17636 , CO 
+ B2 : (FEOL) : g17881 , ZN 
+ 
+ 
+ A : (FEOL) : g17694 , ZN 
+ 
+ 
+ A : (BEOL) : g17719 , ZN 
+ B1 : (FEOL) : g17761 , ZN 
+ B2 : (FEOL) : g17781 , ZN 
+ C1 : (FEOL) : g17714 , ZN 
+ C2 : (BEOL) : g17922 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17728 , ZN 
+ A2 : (FEOL) : g17931 , ZN 
+ B1 : (FEOL) : g17954 , ZN 
+ B2 : (FEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17768 , ZN 
+ B1 : (FEOL) : g17678 , ZN 
+ B2 : (FEOL) : g17806 , ZN 
+ 
+ 
+ A : (FEOL) : CONT_REG_4__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : FE_OFC14_n_248 , Z 
+ B2 : (FEOL) : g17759 , ZN 
+ 
+ 
+ A : (FEOL) : g17721 , ZN 
+ B1 : (FEOL) : g17751 , S 
+ B2 : (BEOL) : g17922 , ZN 
+ C1 : (FEOL) : g17825 , ZN 
+ C2 : (FEOL) : g17795 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17737 , ZN 
+ A2 : (BEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : FE_OFC14_n_248 , Z 
+ A2 : (BEOL) : g17921 , ZN 
+ A3 : (FEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17785 , ZN 
+ B : (FEOL) : g17896 , ZN 
+ C1 : (FEOL) : g17760 , ZN 
+ C2 : (FEOL) : g17937 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17712 , ZN 
+ A2 : (FEOL) : g17843 , ZN 
+ 
+ 
+ A : (FEOL) : g17680 , ZN 
+ B : (FEOL) : g17641 , ZN 
+ C1 : (FEOL) : g17700 , ZN 
+ C2 : (FEOL) : g17917 , ZN 
+ 
+ 
+ A : (FEOL) : g17712 , ZN 
+ B : (FEOL) : g17843 , ZN 
+ C1 : (FEOL) : g17870 , ZN 
+ C2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17636 , CO 
+ A2 : (FEOL) : g17885 , ZN 
+ 
+ 
+ A : (FEOL) : g17790 , ZN 
+ B1 : (BEOL) : g17716 , ZN 
+ B2 : (FEOL) : g17703 , ZN 
+ C1 : (FEOL) : g17729 , ZN 
+ C2 : (BEOL) : g17881 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17680 , ZN 
+ A2 : (BEOL) : g17716 , ZN 
+ 
+ 
+ A : (FEOL) : FE_OFC14_n_248 , Z 
+ 
+ 
+ A : (FEOL) : g17741 , ZN 
+ B : (FEOL) : g17740 , ZN 
+ C1 : (FEOL) : g17750 , ZN 
+ C2 : (FEOL) : g17938 , ZN 
+ 
+ 
+ A : (FEOL) : g17720 , ZN 
+ B : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17771 , ZN 
+ B1 : (FEOL) : g17702 , ZN 
+ B2 : (FEOL) : g17716 , ZN 
+ 
+ 
+ A : (FEOL) : g17767 , ZN 
+ B1 : (FEOL) : g17806 , ZN 
+ B2 : (FEOL) : g17718 , ZN 
+ 
+ 
+ A : (FEOL) : g17841 , ZN 
+ B : (FEOL) : g17744 , ZN 
+ C1 : (BEOL) : g17919 , ZN 
+ C2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17762 , ZN 
+ A2 : (FEOL) : g17875 , ZN 
+ B1 : (FEOL) : g17794 , ZN 
+ B2 : (BEOL) : g17885 , ZN 
+ 
+ 
+ A : (FEOL) : g17732 , ZN 
+ 
+ 
+ A : (FEOL) : g17699 , ZN 
+ B1 : (FEOL) : g17716 , ZN 
+ B2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17759 , ZN 
+ A2 : (FEOL) : g17848 , ZN 
+ A3 : (FEOL) : g17951 , ZN 
+ A4 : (FEOL) : CONT_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17699 , ZN 
+ A2 : (FEOL) : g17877 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17699 , ZN 
+ A2 : (BEOL) : g17922 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17699 , ZN 
+ A2 : (BEOL) : g17917 , ZN 
+ A3 : (BEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17769 , ZN 
+ B1 : (FEOL) : g17806 , ZN 
+ B2 : (FEOL) : g17810 , ZN 
+ 
+ 
+ A : (FEOL) : g17733 , ZN 
+ B1 : (FEOL) : g17758 , ZN 
+ B2 : (FEOL) : g17882 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17765 , ZN 
+ A2 : (FEOL) : g17887 , ZN 
+ B1 : (FEOL) : g17752 , ZN 
+ B2 : (FEOL) : g17814 , ZN 
+ C1 : (FEOL) : g17878 , ZN 
+ C2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A : (FEOL) : g17830 , ZN 
+ B1 : (FEOL) : g17754 , ZN 
+ B2 : (BEOL) : g17799 , ZN 
+ C1 : (FEOL) : g17867 , ZN 
+ C2 : (FEOL) : g17956 , ZN 
+ 
+ 
+ A : (FEOL) : g17746 , ZN 
+ B : (FEOL) : g17797 , ZN 
+ C1 : (FEOL) : g17792 , ZN 
+ C2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A : (FEOL) : g17764 , ZN 
+ B1 : (FEOL) : g17763 , ZN 
+ B2 : (BEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17911 , ZN 
+ B1 : (FEOL) : g17756 , ZN 
+ B2 : (FEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17651 , CO 
+ B : (FEOL) : CONT1_REG_6__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17735 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17815 , ZN 
+ A2 : (FEOL) : g17751 , S 
+ B1 : (BEOL) : g17807 , ZN 
+ B2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ C1 : (FEOL) : g17865 , ZN 
+ C2 : (BEOL) : X_OUT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17821 , ZN 
+ B1 : (FEOL) : g17880 , ZN 
+ B2 : (FEOL) : CONT_REG_4__SCAN_IN , Primaryinput 
+ C1 : (FEOL) : g17651 , S 
+ C2 : (FEOL) : g17885 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17759 , ZN 
+ A2 : (FEOL) : CONT_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17718 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17765 , ZN 
+ A2 : (FEOL) : g17814 , ZN 
+ B1 : (FEOL) : g17878 , ZN 
+ B2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A : (FEOL) : g17772 , ZN 
+ B : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17801 , ZN 
+ A2 : (FEOL) : g17781 , ZN 
+ B1 : (BEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : g17845 , ZN 
+ 
+ 
+ A : (FEOL) : g17876 , ZN 
+ B : (BEOL) : g17881 , ZN 
+ C1 : (FEOL) : g17780 , ZN 
+ C2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17807 , ZN 
+ A2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17865 , ZN 
+ B2 : (FEOL) : X_OUT_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17786 , ZN 
+ A2 : (FEOL) : g17809 , ZN 
+ A3 : (FEOL) : g17907 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17807 , ZN 
+ A2 : (FEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17865 , ZN 
+ B2 : (FEOL) : X_OUT_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17807 , ZN 
+ A2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17865 , ZN 
+ B2 : (FEOL) : X_OUT_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17936 , ZN 
+ A2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17807 , ZN 
+ A2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17865 , ZN 
+ B2 : (BEOL) : X_OUT_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17730 , ZN 
+ B1 : (FEOL) : g17782 , ZN 
+ B2 : (FEOL) : g17862 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17716 , ZN 
+ A2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17815 , ZN 
+ A2 : (FEOL) : g17717 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17717 , ZN 
+ A2 : (BEOL) : g17922 , ZN 
+ 
+ 
+ A : (FEOL) : g17747 , ZN 
+ B1 : (FEOL) : g17751 , CO 
+ B2 : (FEOL) : g17857 , ZN 
+ 
+ 
+ A : (FEOL) : g17925 , ZN 
+ B1 : (FEOL) : g17772 , ZN 
+ B2 : (FEOL) : g17926 , ZN 
+ 
+ 
+ A : (BEOL) : g17791 , ZN 
+ B1 : (FEOL) : g17850 , ZN 
+ B2 : (FEOL) : g17802 , ZN 
+ C1 : (FEOL) : g17871 , ZN 
+ C2 : (FEOL) : g17900 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17810 , ZN 
+ A2 : (FEOL) : g17917 , ZN 
+ B1 : (FEOL) : g17778 , ZN 
+ B2 : (FEOL) : g17924 , ZN 
+ 
+ 
+ A : (FEOL) : g17885 , ZN 
+ B1 : (FEOL) : g17784 , ZN 
+ B2 : (FEOL) : g17946 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17772 , ZN 
+ A2 : (FEOL) : g17873 , ZN 
+ A3 : (FEOL) : g17926 , ZN 
+ 
+ 
+ A : (FEOL) : g17955 , ZN 
+ B1 : (BEOL) : g17816 , ZN 
+ B2 : (FEOL) : g17913 , ZN 
+ 
+ 
+ A : (FEOL) : g17775 , ZN 
+ B1 : (FEOL) : g17874 , ZN 
+ B2 : (BEOL) : g17716 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17827 , ZN 
+ A2 : (FEOL) : g17838 , ZN 
+ A3 : (BEOL) : g17941 , ZN 
+ B1 : (FEOL) : g17839 , S 
+ B2 : (FEOL) : g17805 , ZN 
+ B3 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17838 , ZN 
+ A2 : (FEOL) : g17826 , ZN 
+ A3 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17839 , S 
+ B2 : (FEOL) : g17804 , ZN 
+ B3 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A : (BEOL) : g17881 , ZN 
+ B : (FEOL) : g17917 , ZN 
+ C1 : (FEOL) : g17802 , ZN 
+ C2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17770 , ZN 
+ A2 : (FEOL) : g17849 , ZN 
+ A3 : (BEOL) : g17863 , ZN 
+ A4 : (FEOL) : g17874 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17798 , ZN 
+ A2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ A3 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17758 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17778 , ZN 
+ A2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17788 , ZN 
+ A2 : (FEOL) : g17876 , ZN 
+ 
+ 
+ A : (BEOL) : g17899 , ZN 
+ B : (BEOL) : g17839 , S 
+ C1 : (FEOL) : g17811 , ZN 
+ C2 : (BEOL) : g17921 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17844 , ZN 
+ A2 : (FEOL) : g17940 , ZN 
+ B1 : (BEOL) : g17874 , ZN 
+ B2 : (FEOL) : g17942 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17777 , ZN 
+ A2 : (FEOL) : g17802 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17816 , ZN 
+ A2 : (FEOL) : g17955 , ZN 
+ A3 : (BEOL) : g17951 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17747 , ZN 
+ A2 : (FEOL) : g17889 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17747 , ZN 
+ A2 : (FEOL) : g17889 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17868 , ZN 
+ A2 : (FEOL) : g17893 , ZN 
+ B1 : (FEOL) : g17849 , ZN 
+ B2 : (FEOL) : g17952 , ZN 
+ 
+ 
+ A : (BEOL) : g17815 , ZN 
+ 
+ 
+ A : (FEOL) : g17736 , ZN 
+ B : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17872 , ZN 
+ B1 : (FEOL) : g17866 , ZN 
+ B2 : (FEOL) : g17952 , ZN 
+ 
+ 
+ A : (FEOL) : g17793 , ZN 
+ B1 : (BEOL) : g17880 , ZN 
+ B2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ C1 : (BEOL) : g17885 , ZN 
+ C2 : (FEOL) : g17837 , S 
+ 
+ 
+ A1 : (FEOL) : g17879 , ZN 
+ A2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17812 , ZN 
+ B2 : (FEOL) : g17950 , ZN 
+ 
+ 
+ A : (FEOL) : g17826 , ZN 
+ B1 : (FEOL) : g17808 , ZN 
+ B2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17827 , ZN 
+ B1 : (FEOL) : g17813 , ZN 
+ B2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17861 , ZN 
+ A2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ A3 : (BEOL) : g17885 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17823 , ZN 
+ A2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17853 , ZN 
+ B2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17777 , ZN 
+ 
+ 
+ A : (FEOL) : g17780 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17802 , ZN 
+ A2 : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17802 , ZN 
+ A2 : (BEOL) : g17928 , ZN 
+ 
+ 
+ A : (BEOL) : g17839 , S 
+ B : (FEOL) : g17837 , CO 
+ C1 : (FEOL) : g17864 , ZN 
+ C2 : (FEOL) : g17846 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17842 , ZN 
+ A2 : (BEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17886 , ZN 
+ B2 : (FEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17844 , ZN 
+ A2 : (BEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17844 , ZN 
+ A2 : (BEOL) : g17955 , ZN 
+ 
+ 
+ A : (FEOL) : g17858 , ZN 
+ B : (BEOL) : g17945 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17858 , ZN 
+ A2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17923 , ZN 
+ B2 : (FEOL) : g17936 , ZN 
+ C1 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ C2 : (FEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17824 , ZN 
+ B : (FEOL) : g17918 , ZN 
+ C1 : (BEOL) : g17861 , ZN 
+ C2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17820 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17819 , ZN 
+ A2 : (FEOL) : g17868 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17803 , CO 
+ A2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17803 , CO 
+ A2 : (FEOL) : g17944 , ZN 
+ 
+ 
+ A : (FEOL) : g17822 , ZN 
+ B1 : (FEOL) : g17937 , ZN 
+ B2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17819 , ZN 
+ A2 : (FEOL) : g17937 , ZN 
+ A3 : (BEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17803 , CO 
+ A2 : (BEOL) : g17941 , ZN 
+ A3 : (FEOL) : g17940 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17875 , ZN 
+ A2 : (FEOL) : g17847 , ZN 
+ B1 : (FEOL) : g17886 , ZN 
+ B2 : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17838 , ZN 
+ A2 : (FEOL) : g17851 , ZN 
+ B1 : (FEOL) : g17839 , S 
+ B2 : (FEOL) : FE_OFC17_n_113 , Z 
+ 
+ 
+ A1 : (FEOL) : FE_OFC17_n_113 , Z 
+ A2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17851 , ZN 
+ B2 : (FEOL) : g17948 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17852 , ZN 
+ A2 : (FEOL) : g17902 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17859 , ZN 
+ A2 : (FEOL) : g17943 , ZN 
+ 
+ 
+ A : (FEOL) : g17828 , ZN 
+ 
+ 
+ A : (FEOL) : g17739 , ZN 
+ B1 : (FEOL) : g17817 , ZN 
+ B2 : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17873 , ZN 
+ A2 : (FEOL) : g17925 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17874 , ZN 
+ A2 : (BEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17862 , ZN 
+ A2 : (FEOL) : g17944 , ZN 
+ A3 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A : (FEOL) : g17854 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17881 , ZN 
+ A2 : (FEOL) : g17809 , ZN 
+ B1 : (BEOL) : g17944 , ZN 
+ B2 : (FEOL) : g17911 , ZN 
+ 
+ 
+ A : (FEOL) : g17856 , ZN 
+ B1 : (FEOL) : g17888 , ZN 
+ B2 : (BEOL) : g17941 , ZN 
+ C1 : (BEOL) : g17861 , ZN 
+ C2 : (FEOL) : g17897 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17901 , ZN 
+ A2 : (BEOL) : g17834 , Z 
+ B1 : (FEOL) : g17880 , ZN 
+ B2 : (BEOL) : g17834 , Z 
+ C1 : (FEOL) : g17886 , ZN 
+ C2 : (FEOL) : CONT_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17901 , ZN 
+ A2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17880 , ZN 
+ B2 : (FEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ C1 : (FEOL) : g17886 , ZN 
+ C2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17861 , ZN 
+ B : (BEOL) : g17945 , ZN 
+ 
+ 
+ A : (BEOL) : g17803 , CO 
+ 
+ 
+ A : (FEOL) : g17808 , ZN 
+ 
+ 
+ A : (FEOL) : g17813 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17860 , ZN 
+ A2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17843 , ZN 
+ B1 : (FEOL) : g17890 , ZN 
+ B2 : (FEOL) : g17939 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17856 , ZN 
+ A2 : (FEOL) : g17905 , ZN 
+ A3 : (FEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : FE_OFC17_n_113 , Z 
+ A2 : (BEOL) : g17885 , ZN 
+ A3 : (BEOL) : g17929 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17861 , ZN 
+ A2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ A3 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17886 , ZN 
+ A2 : (FEOL) : CONT_REG_5__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17901 , ZN 
+ B2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17886 , ZN 
+ A2 : (BEOL) : CONT_REG_1__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17901 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17872 , ZN 
+ A2 : (FEOL) : g17909 , ZN 
+ 
+ 
+ A : (FEOL) : g17858 , ZN 
+ 
+ 
+ A : (BEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17900 , ZN 
+ B2 : (FEOL) : g17902 , ZN 
+ 
+ 
+ A : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ B : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ C1 : (FEOL) : g17912 , ZN 
+ C2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17717 , ZN 
+ 
+ 
+ A : (FEOL) : g17739 , ZN 
+ 
+ 
+ A : (FEOL) : g17875 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17899 , ZN 
+ A2 : (FEOL) : g17938 , ZN 
+ A3 : (FEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ A4 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17837 , CO 
+ A2 : (FEOL) : g17906 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17840 , CO 
+ A2 : (FEOL) : g17916 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17927 , ZN 
+ A2 : (FEOL) : g17837 , CO 
+ 
+ 
+ A1 : (FEOL) : g17933 , ZN 
+ A2 : (FEOL) : g17839 , CO 
+ 
+ 
+ A1 : (FEOL) : g17869 , ZN 
+ A2 : (FEOL) : g17928 , ZN 
+ B1 : (FEOL) : g17888 , ZN 
+ B2 : (FEOL) : g17929 , ZN 
+ 
+ 
+ A : (FEOL) : g17903 , ZN 
+ B : (FEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17921 , ZN 
+ B1 : (BEOL) : g17927 , ZN 
+ B2 : (BEOL) : g17945 , ZN 
+ 
+ 
+ A : (FEOL) : g17839 , S 
+ 
+ 
+ A1 : (FEOL) : g17890 , ZN 
+ A2 : (FEOL) : g17939 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17899 , ZN 
+ A2 : (FEOL) : g17892 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17884 , ZN 
+ A2 : (FEOL) : CONT_REG_4__SCAN_IN , Primaryinput 
+ A3 : (BEOL) : g17834 , Z 
+ 
+ 
+ A : (BEOL) : g17929 , ZN 
+ B1 : (BEOL) : g17885 , ZN 
+ B2 : (FEOL) : g17908 , ZN 
+ 
+ 
+ A : (BEOL) : g17941 , ZN 
+ B : (FEOL) : X_IN_2_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17900 , ZN 
+ A2 : (FEOL) : g17936 , ZN 
+ B1 : (FEOL) : g17938 , ZN 
+ B2 : (FEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17927 , ZN 
+ A2 : (BEOL) : g17941 , ZN 
+ B1 : (FEOL) : g17906 , ZN 
+ B2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17868 , ZN 
+ 
+ 
+ A : (FEOL) : g17871 , ZN 
+ 
+ 
+ A : (FEOL) : g17872 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17817 , ZN 
+ A2 : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17919 , ZN 
+ A2 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17899 , ZN 
+ A2 : (BEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17899 , ZN 
+ A2 : (FEOL) : g17927 , ZN 
+ 
+ 
+ A : (FEOL) : g17887 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17891 , ZN 
+ A2 : (FEOL) : g17927 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17891 , ZN 
+ A2 : (FEOL) : g17906 , ZN 
+ 
+ 
+ A : (BEOL) : R_IN_REG_4__SCAN_IN , Primaryinput 
+ B : (FEOL) : X_IN_4_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ B : (FEOL) : X_IN_3_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ B : (FEOL) : X_IN_1_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ B : (BEOL) : X_IN_0_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ B : (FEOL) : X_IN_5_ , Primaryinput 
+ S : (FEOL) : g17883 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17899 , ZN 
+ A2 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : FE_OFC17_n_113 , Z 
+ 
+ 
+ A : (FEOL) : g17901 , ZN 
+ B1 : (BEOL) : g17907 , ZN 
+ B2 : (FEOL) : g17836 , ZN 
+ 
+ 
+ A : (FEOL) : g17817 , ZN 
+ B1 : (FEOL) : g17948 , ZN 
+ B2 : (FEOL) : g17921 , ZN 
+ 
+ 
+ A1 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : g17894 , ZN 
+ 
+ 
+ A : (FEOL) : g17921 , ZN 
+ B1 : (BEOL) : g17945 , ZN 
+ B2 : (FEOL) : g17906 , ZN 
+ 
+ 
+ A : (BEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ B1 : (BEOL) : g17929 , ZN 
+ B2 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ C1 : (BEOL) : g17941 , ZN 
+ C2 : (BEOL) : g17929 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17910 , ZN 
+ A2 : (BEOL) : g17941 , ZN 
+ B1 : (BEOL) : g17861 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17923 , ZN 
+ A2 : (FEOL) : g17936 , ZN 
+ B1 : (FEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17908 , ZN 
+ A2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17938 , ZN 
+ B2 : (BEOL) : g17941 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17909 , ZN 
+ A2 : (BEOL) : g17951 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17915 , ZN 
+ A2 : (FEOL) : g17916 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17907 , ZN 
+ A2 : (FEOL) : g17940 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17932 , ZN 
+ A2 : (FEOL) : g17933 , ZN 
+ 
+ 
+ A : (FEOL) : g17885 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17907 , ZN 
+ A2 : (BEOL) : g17954 , ZN 
+ 
+ 
+ A : (FEOL) : g17932 , ZN 
+ B1 : (BEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17880 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17930 , ZN 
+ A2 : (BEOL) : g17922 , ZN 
+ 
+ 
+ A : (FEOL) : g17795 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17913 , ZN 
+ A2 : (FEOL) : g17955 , ZN 
+ 
+ 
+ A : (FEOL) : g17943 , ZN 
+ B : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ B : (FEOL) : g17948 , ZN 
+ 
+ 
+ A : (FEOL) : g17938 , ZN 
+ B : (BEOL) : g17945 , ZN 
+ 
+ 
+ A : (FEOL) : g17903 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17952 , ZN 
+ A2 : (FEOL) : g17946 , ZN 
+ A3 : (BEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17949 , ZN 
+ A2 : (FEOL) : CONT1_REG_6__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17954 , ZN 
+ B2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17937 , ZN 
+ A2 : (FEOL) : g17951 , ZN 
+ A3 : (FEOL) : STATO_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17950 , ZN 
+ B2 : (FEOL) : g17936 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17947 , ZN 
+ A2 : (FEOL) : g17950 , ZN 
+ B1 : (BEOL) : CONT1_REG_7__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17945 , ZN 
+ A2 : (FEOL) : g17941 , ZN 
+ B1 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17952 , ZN 
+ A2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17941 , ZN 
+ B2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17947 , ZN 
+ A2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ B1 : (FEOL) : g17944 , ZN 
+ B2 : (BEOL) : R_IN_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17947 , ZN 
+ A2 : (FEOL) : CONT1_REG_7__SCAN_IN , Primaryinput 
+ B1 : (BEOL) : g17954 , ZN 
+ B2 : (BEOL) : g17954 , ZN 
+ 
+ 
+ A : (FEOL) : g17915 , ZN 
+ B1 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ B2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17907 , ZN 
+ 
+ 
+ A : (FEOL) : g17909 , ZN 
+ 
+ 
+ A : (BEOL) : g17922 , ZN 
+ 
+ 
+ A : (BEOL) : g17885 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17905 , ZN 
+ A2 : (FEOL) : g17910 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17941 , ZN 
+ A2 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ A3 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ B1 : (BEOL) : g17945 , ZN 
+ B2 : (BEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ B3 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17956 , ZN 
+ A2 : (FEOL) : g17934 , ZN 
+ A3 : (FEOL) : g17935 , ZN 
+ 
+ 
+ A : (FEOL) : g17912 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17948 , ZN 
+ A2 : (FEOL) : g17921 , ZN 
+ 
+ 
+ A : (FEOL) : g17905 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17935 , ZN 
+ A2 : (BEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17921 , ZN 
+ 
+ 
+ A1 : (BEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ A3 : (FEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17923 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17951 , ZN 
+ A2 : (FEOL) : g17946 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17938 , ZN 
+ A2 : (BEOL) : g17940 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17949 , ZN 
+ A2 : (FEOL) : g17954 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17953 , ZN 
+ A2 : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17946 , ZN 
+ A2 : (BEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ A3 : (BEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17946 , ZN 
+ A2 : (FEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17951 , ZN 
+ A2 : (FEOL) : g17946 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17952 , ZN 
+ A2 : (BEOL) : CONT1_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : g17941 , ZN 
+ A2 : (FEOL) : g17944 , ZN 
+ 
+ 
+ A1 : (BEOL) : g17954 , ZN 
+ A2 : (BEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17948 , ZN 
+ A2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17908 , ZN 
+ 
+ 
+ A1 : (BEOL) : X_OUT_REG_4__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : g17943 , ZN 
+ A2 : (BEOL) : g17947 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17946 , ZN 
+ A2 : (FEOL) : g17937 , ZN 
+ 
+ 
+ A1 : (FEOL) : g17944 , ZN 
+ A2 : (FEOL) : CONT1_REG_6__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ A3 : (BEOL) : R_IN_REG_4__SCAN_IN , Primaryinput 
+ A4 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : g17906 , ZN 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : R_IN_REG_1__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : R_IN_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : g17929 , ZN 
+ 
+ 
+ A1 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : R_IN_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : STBI , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_0__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : CONT1_REG_7__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ A2 : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A1 : (BEOL) : CONT_REG_1__SCAN_IN , Primaryinput 
+ A2 : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT1_REG_8__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : X_OUT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT1_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : STATO_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : STATO_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : CONT1_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : CONT_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT1_REG_4__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : g17954 , ZN 
+ 
+ 
+ A : (FEOL) : CONT1_REG_5__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : STATO_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : CONT1_REG_1__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT1_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : R_IN_REG_3__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (BEOL) : R_IN_REG_0__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : R_IN_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT1_REG_6__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : CONT_REG_2__SCAN_IN , Primaryinput 
+ 
+ 
+ A : (FEOL) : STATO_REG_1__SCAN_IN , Primaryinput 
+ 

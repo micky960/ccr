@@ -63,7 +63,7 @@ void   NET::_parseCells(std::unordered_map<std::string, CELL*> glbCellList){
     for(const auto c : cellList) {
         CELL* cur = glbCellList[c.cell];
         //std::cout << "srcName: " << src.instName << ", srcPin: " << src.pinName << ", sinkName: " << c.cell << ", sinkPinName:" << c.pin << std::endl;
-        cur->setSrc(c.pin, src.instName, src.pinName);
+        cur->setSrc(c.pin, src.instName, src.pinName, false);
     }   
 
 }

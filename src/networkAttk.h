@@ -12,4 +12,5 @@ class NETWORKFLOW{
         NETWORKFLOW(std::ifstream& networkFile);
         void _parseCell(std::string line);
         void _parsePin(std::string line);
+        void _parseCellPin(std::string tok, CELL* c);
 };

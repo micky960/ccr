@@ -1,10 +1,12 @@
+#ifndef NET_H
+#define NET_H
+
 #include<iostream>
 #include<string>
 #include <boost/algorithm/string.hpp>
 
 #include "cell.h"
 #include "pin.h"
-
 
 typedef struct{
     std::string instName, pinName;
@@ -35,3 +37,5 @@ class NET{
         void _parseCells(std::unordered_map<std::string, CELL*> glbCellList);
         void _parsePins(std::unordered_map<std::string, PIN*> glbPinList);
 };
+
+#endif

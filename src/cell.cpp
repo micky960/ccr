@@ -14,14 +14,18 @@ CELL::CELL(std::string line){
     ss>>type;//type of comp
 }
 
-void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName){
+CELL::CELL(){
+
+}
+
+void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL){
 
     cPP cur;
     cur.sinkName = name;
     cur.sinkPinName = sinkPinName;
     cur.srcName = srcName;
     cur.srcPinName = srcPinName;
-
+    cur.isBEOL = isBEOL;
 
     if (ipList.find(cur.sinkPinName) == ipList.end()){
         ipList[cur.sinkPinName] = cur;

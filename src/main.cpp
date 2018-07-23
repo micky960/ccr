@@ -14,21 +14,28 @@
 #include <boost/algorithm/string.hpp>
 
 #include "def.h"
+#include "networkAttk.h"
 
 int main(int argc, char* argv[]){
 
-	assert(argc==2);
+	assert(argc==3);
 
     std::ifstream def(argv[1]);
+    std::ifstream networkflow(argv[2]);
 
     if(def.fail()){
         std::cerr << "splitdef file not found"<<std::endl;
         exit(1);
     }
+    if(networkflow.fail()){
+        std::cerr << "networkflow file not found"<<std::endl;
+        exit(1);
+    }
 
     DEF* def_parse = new DEF(def);
 
-    def_parse->printCells();
-    def_parse->printPins();
+    //def_parse->printCells();
+    //def_parse->printPins();
 
+    NETWORKFLOW* netwrkflw_parse = new NETWORKFLOW(networkflow);
 }
