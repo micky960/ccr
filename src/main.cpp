@@ -28,6 +28,7 @@ int main(int argc, char* argv[]){
 
     DEF* def_parse = new DEF(def);
 
-    //def_parse->printCells();
+    def_parse->printCells();
+    def_parse->printPins();
 
 }

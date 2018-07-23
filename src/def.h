@@ -12,6 +12,7 @@ class DEF{
         std::unordered_map<std::string, NET*> netList;
         DEF(std::ifstream& def);
         void printCells();
+        void printPins();
 
     private:
         void _parseComponents(std::ifstream& def);

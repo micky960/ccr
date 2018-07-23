@@ -1,341 +1,1719 @@
-srcName: FE_OFC17_n_113, srcPin: Z, sinkName: FE_OFC17_n_113, sinkPinName:Z
-srcName: FE_OFC16_n_344, srcPin: Z, sinkName: FE_OFC16_n_344, sinkPinName:Z
-srcName: FE_OFC15_n_330, srcPin: Z, sinkName: FE_OFC15_n_330, sinkPinName:Z
-srcName: FE_OFC14_n_248, srcPin: Z, sinkName: FE_OFC14_n_248, sinkPinName:Z
-srcName: g17831, srcPin: Z, sinkName: g17831, sinkPinName:Z
-srcName: g17834, srcPin: Z, sinkName: g17834, sinkPinName:Z
-srcName: g17832, srcPin: Z, sinkName: g17832, sinkPinName:Z
-srcName: g17829, srcPin: Z, sinkName: g17829, sinkPinName:Z
-srcName: g17835, srcPin: Z, sinkName: g17835, sinkPinName:Z
-srcName: g17833, srcPin: Z, sinkName: g17833, sinkPinName:Z
-srcName: g17738, srcPin: ZN, sinkName: g17738, sinkPinName:ZN
-srcName: g17683, srcPin: ZN, sinkName: g17683, sinkPinName:ZN
-srcName: g17646, srcPin: ZN, sinkName: g17646, sinkPinName:ZN
-srcName: g17658, srcPin: ZN, sinkName: g17658, sinkPinName:ZN
-srcName: g17675, srcPin: ZN, sinkName: g17675, sinkPinName:ZN
-srcName: g17706, srcPin: ZN, sinkName: g17706, sinkPinName:ZN
-srcName: g17616, srcPin: ZN, sinkName: g17616, sinkPinName:ZN
-srcName: g17614, srcPin: ZN, sinkName: g17614, sinkPinName:ZN
-srcName: g17613, srcPin: ZN, sinkName: g17613, sinkPinName:ZN
-srcName: g17619, srcPin: ZN, sinkName: g17619, sinkPinName:ZN
-srcName: g17635, srcPin: ZN, sinkName: g17635, sinkPinName:ZN
-srcName: g17640, srcPin: ZN, sinkName: g17640, sinkPinName:ZN
-srcName: g17647, srcPin: ZN, sinkName: g17647, sinkPinName:ZN
-srcName: g17656, srcPin: ZN, sinkName: g17656, sinkPinName:ZN
-srcName: g17666, srcPin: ZN, sinkName: g17666, sinkPinName:ZN
-srcName: g17654, srcPin: ZN, sinkName: g17654, sinkPinName:ZN
-srcName: g17671, srcPin: ZN, sinkName: g17671, sinkPinName:ZN
-srcName: g17693, srcPin: ZN, sinkName: g17693, sinkPinName:ZN
-srcName: g17724, srcPin: ZN, sinkName: g17724, sinkPinName:ZN
-srcName: g17748, srcPin: ZN, sinkName: g17748, sinkPinName:ZN
-srcName: g17796, srcPin: ZN, sinkName: g17796, sinkPinName:ZN
-srcName: g17753, srcPin: ZN, sinkName: g17753, sinkPinName:ZN
-srcName: g17685, srcPin: ZN, sinkName: g17685, sinkPinName:ZN
-srcName: g17710, srcPin: ZN, sinkName: g17710, sinkPinName:ZN
-srcName: g17934, srcPin: ZN, sinkName: g17934, sinkPinName:ZN
-srcName: g17942, srcPin: ZN, sinkName: g17942, sinkPinName:ZN
-srcName: g17904, srcPin: ZN, sinkName: g17904, sinkPinName:ZN
-srcName: g17924, srcPin: ZN, sinkName: g17924, sinkPinName:ZN
-srcName: g17898, srcPin: ZN, sinkName: g17898, sinkPinName:ZN
-srcName: g17931, srcPin: ZN, sinkName: g17931, sinkPinName:ZN
-srcName: g17953, srcPin: ZN, sinkName: g17953, sinkPinName:ZN
-srcName: g17914, srcPin: ZN, sinkName: g17914, sinkPinName:ZN
-srcName: g17918, srcPin: ZN, sinkName: g17918, sinkPinName:ZN
-srcName: g17836, srcPin: ZN, sinkName: g17836, sinkPinName:ZN
-srcName: g17920, srcPin: ZN, sinkName: g17920, sinkPinName:ZN
-srcName: g17897, srcPin: ZN, sinkName: g17897, sinkPinName:ZN
-srcName: g17912, srcPin: ZN, sinkName: g17912, sinkPinName:ZN
-srcName: g17935, srcPin: ZN, sinkName: g17935, sinkPinName:ZN
-srcName: g17884, srcPin: ZN, sinkName: g17884, sinkPinName:ZN
-srcName: g17910, srcPin: ZN, sinkName: g17910, sinkPinName:ZN
-srcName: g17905, srcPin: ZN, sinkName: g17905, sinkPinName:ZN
-srcName: g17869, srcPin: ZN, sinkName: g17869, sinkPinName:ZN
-srcName: g17915, srcPin: ZN, sinkName: g17915, sinkPinName:ZN
-srcName: g17879, srcPin: ZN, sinkName: g17879, sinkPinName:ZN
-srcName: g17895, srcPin: ZN, sinkName: g17895, sinkPinName:ZN
-srcName: g17947, srcPin: ZN, sinkName: g17947, sinkPinName:ZN
-srcName: g17893, srcPin: ZN, sinkName: g17893, sinkPinName:ZN
-srcName: g17892, srcPin: ZN, sinkName: g17892, sinkPinName:ZN
-srcName: g17894, srcPin: ZN, sinkName: g17894, sinkPinName:ZN
-srcName: g17946, srcPin: ZN, sinkName: g17946, sinkPinName:ZN
-srcName: g17903, srcPin: ZN, sinkName: g17903, sinkPinName:ZN
-srcName: g17896, srcPin: ZN, sinkName: g17896, sinkPinName:ZN
-srcName: g17943, srcPin: ZN, sinkName: g17943, sinkPinName:ZN
-srcName: g17913, srcPin: ZN, sinkName: g17913, sinkPinName:ZN
-srcName: g17795, srcPin: ZN, sinkName: g17795, sinkPinName:ZN
-srcName: g17789, srcPin: ZN, sinkName: g17789, sinkPinName:ZN
-srcName: g17930, srcPin: ZN, sinkName: g17930, sinkPinName:ZN
-srcName: g17867, srcPin: ZN, sinkName: g17867, sinkPinName:ZN
-srcName: g17932, srcPin: ZN, sinkName: g17932, sinkPinName:ZN
-srcName: g17933, srcPin: ZN, sinkName: g17933, sinkPinName:ZN
-srcName: g17916, srcPin: ZN, sinkName: g17916, sinkPinName:ZN
-srcName: g17909, srcPin: ZN, sinkName: g17909, sinkPinName:ZN
-srcName: g17908, srcPin: ZN, sinkName: g17908, sinkPinName:ZN
-srcName: g17923, srcPin: ZN, sinkName: g17923, sinkPinName:ZN
-srcName: g17857, srcPin: ZN, sinkName: g17857, sinkPinName:ZN
-srcName: g17818, srcPin: ZN, sinkName: g17818, sinkPinName:ZN
-srcName: g17794, srcPin: ZN, sinkName: g17794, sinkPinName:ZN
-srcName: g17792, srcPin: ZN, sinkName: g17792, sinkPinName:ZN
-srcName: g17883, srcPin: ZN, sinkName: g17883, sinkPinName:ZN
-srcName: g17891, srcPin: ZN, sinkName: g17891, sinkPinName:ZN
-srcName: g17845, srcPin: ZN, sinkName: g17845, sinkPinName:ZN
-srcName: g17847, srcPin: ZN, sinkName: g17847, sinkPinName:ZN
-srcName: g17887, srcPin: ZN, sinkName: g17887, sinkPinName:ZN
-srcName: g17882, srcPin: ZN, sinkName: g17882, sinkPinName:ZN
-srcName: g17817, srcPin: ZN, sinkName: g17817, sinkPinName:ZN
-srcName: g17864, srcPin: ZN, sinkName: g17864, sinkPinName:ZN
-srcName: g17906, srcPin: ZN, sinkName: g17906, sinkPinName:ZN
-srcName: g17860, srcPin: ZN, sinkName: g17860, sinkPinName:ZN
-srcName: g17853, srcPin: ZN, sinkName: g17853, sinkPinName:ZN
-srcName: g17848, srcPin: ZN, sinkName: g17848, sinkPinName:ZN
-srcName: g17846, srcPin: ZN, sinkName: g17846, sinkPinName:ZN
-srcName: g17890, srcPin: ZN, sinkName: g17890, sinkPinName:ZN
-srcName: g17927, srcPin: ZN, sinkName: g17927, sinkPinName:ZN
-srcName: g17921, srcPin: ZN, sinkName: g17921, sinkPinName:ZN
-srcName: g17929, srcPin: ZN, sinkName: g17929, sinkPinName:ZN
-srcName: g17888, srcPin: ZN, sinkName: g17888, sinkPinName:ZN
-srcName: g17812, srcPin: ZN, sinkName: g17812, sinkPinName:ZN
-srcName: g17899, srcPin: ZN, sinkName: g17899, sinkPinName:ZN
-srcName: g17793, srcPin: ZN, sinkName: g17793, sinkPinName:ZN
-srcName: g17739, srcPin: ZN, sinkName: g17739, sinkPinName:ZN
-srcName: g17736, srcPin: ZN, sinkName: g17736, sinkPinName:ZN
-srcName: g17859, srcPin: ZN, sinkName: g17859, sinkPinName:ZN
-srcName: g17902, srcPin: ZN, sinkName: g17902, sinkPinName:ZN
-srcName: g17900, srcPin: ZN, sinkName: g17900, sinkPinName:ZN
-srcName: g17854, srcPin: ZN, sinkName: g17854, sinkPinName:ZN
-srcName: g17852, srcPin: ZN, sinkName: g17852, sinkPinName:ZN
-srcName: g17872, srcPin: ZN, sinkName: g17872, sinkPinName:ZN
-srcName: g17842, srcPin: ZN, sinkName: g17842, sinkPinName:ZN
-srcName: g17830, srcPin: ZN, sinkName: g17830, sinkPinName:ZN
-srcName: g17828, srcPin: ZN, sinkName: g17828, sinkPinName:ZN
-srcName: g17824, srcPin: ZN, sinkName: g17824, sinkPinName:ZN
-srcName: g17823, srcPin: ZN, sinkName: g17823, sinkPinName:ZN
-srcName: g17856, srcPin: ZN, sinkName: g17856, sinkPinName:ZN
-srcName: g17822, srcPin: ZN, sinkName: g17822, sinkPinName:ZN
-srcName: g17939, srcPin: ZN, sinkName: g17939, sinkPinName:ZN
-srcName: g17811, srcPin: ZN, sinkName: g17811, sinkPinName:ZN
-srcName: g17813, srcPin: ZN, sinkName: g17813, sinkPinName:ZN
-srcName: g17805, srcPin: ZN, sinkName: g17805, sinkPinName:ZN
-srcName: g17808, srcPin: ZN, sinkName: g17808, sinkPinName:ZN
-srcName: g17804, srcPin: ZN, sinkName: g17804, sinkPinName:ZN
-srcName: g17801, srcPin: ZN, sinkName: g17801, sinkPinName:ZN
-srcName: g17901, srcPin: ZN, sinkName: g17901, sinkPinName:ZN
-srcName: g17791, srcPin: ZN, sinkName: g17791, sinkPinName:ZN
-srcName: g17790, srcPin: ZN, sinkName: g17790, sinkPinName:ZN
-srcName: g17782, srcPin: ZN, sinkName: g17782, sinkPinName:ZN
-srcName: g17911, srcPin: ZN, sinkName: g17911, sinkPinName:ZN
-srcName: g17809, srcPin: ZN, sinkName: g17809, sinkPinName:ZN
-srcName: g17770, srcPin: ZN, sinkName: g17770, sinkPinName:ZN
-srcName: g17850, srcPin: ZN, sinkName: g17850, sinkPinName:ZN
-srcName: g17862, srcPin: ZN, sinkName: g17862, sinkPinName:ZN
-srcName: g17925, srcPin: ZN, sinkName: g17925, sinkPinName:ZN
-srcName: g17873, srcPin: ZN, sinkName: g17873, sinkPinName:ZN
-srcName: g17841, srcPin: ZN, sinkName: g17841, sinkPinName:ZN
-srcName: g17729, srcPin: ZN, sinkName: g17729, sinkPinName:ZN
-srcName: g17821, srcPin: ZN, sinkName: g17821, sinkPinName:ZN
-srcName: g17948, srcPin: ZN, sinkName: g17948, sinkPinName:ZN
-srcName: g17855, srcPin: ZN, sinkName: g17855, sinkPinName:ZN
-srcName: g17799, srcPin: ZN, sinkName: g17799, sinkPinName:ZN
-srcName: g17851, srcPin: ZN, sinkName: g17851, sinkPinName:ZN
-srcName: g17798, srcPin: ZN, sinkName: g17798, sinkPinName:ZN
-srcName: g17886, srcPin: ZN, sinkName: g17886, sinkPinName:ZN
-srcName: g17797, srcPin: ZN, sinkName: g17797, sinkPinName:ZN
-srcName: g17788, srcPin: ZN, sinkName: g17788, sinkPinName:ZN
-srcName: g17819, srcPin: ZN, sinkName: g17819, sinkPinName:ZN
-srcName: g17785, srcPin: ZN, sinkName: g17785, sinkPinName:ZN
-srcName: g17937, srcPin: ZN, sinkName: g17937, sinkPinName:ZN
-srcName: g17784, srcPin: ZN, sinkName: g17784, sinkPinName:ZN
-srcName: g17944, srcPin: ZN, sinkName: g17944, sinkPinName:ZN
-srcName: g17868, srcPin: ZN, sinkName: g17868, sinkPinName:ZN
-srcName: g17820, srcPin: ZN, sinkName: g17820, sinkPinName:ZN
-srcName: g17774, srcPin: ZN, sinkName: g17774, sinkPinName:ZN
-srcName: g17861, srcPin: ZN, sinkName: g17861, sinkPinName:ZN
-srcName: g17761, srcPin: ZN, sinkName: g17761, sinkPinName:ZN
-srcName: g17858, srcPin: ZN, sinkName: g17858, sinkPinName:ZN
-srcName: g17945, srcPin: ZN, sinkName: g17945, sinkPinName:ZN
-srcName: g17844, srcPin: ZN, sinkName: g17844, sinkPinName:ZN
-srcName: g17787, srcPin: ZN, sinkName: g17787, sinkPinName:ZN
-srcName: g17783, srcPin: ZN, sinkName: g17783, sinkPinName:ZN
-srcName: g17928, srcPin: ZN, sinkName: g17928, sinkPinName:ZN
-srcName: g17779, srcPin: ZN, sinkName: g17779, sinkPinName:ZN
-srcName: g17777, srcPin: ZN, sinkName: g17777, sinkPinName:ZN
-srcName: g17775, srcPin: ZN, sinkName: g17775, sinkPinName:ZN
-srcName: g17766, srcPin: ZN, sinkName: g17766, sinkPinName:ZN
-srcName: g17827, srcPin: ZN, sinkName: g17827, sinkPinName:ZN
-srcName: g17826, srcPin: ZN, sinkName: g17826, sinkPinName:ZN
-srcName: g17757, srcPin: ZN, sinkName: g17757, sinkPinName:ZN
-srcName: g17749, srcPin: ZN, sinkName: g17749, sinkPinName:ZN
-srcName: g17952, srcPin: ZN, sinkName: g17952, sinkPinName:ZN
-srcName: g17825, srcPin: ZN, sinkName: g17825, sinkPinName:ZN
-srcName: g17849, srcPin: ZN, sinkName: g17849, sinkPinName:ZN
-srcName: g17800, srcPin: ZN, sinkName: g17800, sinkPinName:ZN
-srcName: g17889, srcPin: ZN, sinkName: g17889, sinkPinName:ZN
-srcName: g17747, srcPin: ZN, sinkName: g17747, sinkPinName:ZN
-srcName: g17951, srcPin: ZN, sinkName: g17951, sinkPinName:ZN
-srcName: g17816, srcPin: ZN, sinkName: g17816, sinkPinName:ZN
-srcName: g17786, srcPin: ZN, sinkName: g17786, sinkPinName:ZN
-srcName: g17940, srcPin: ZN, sinkName: g17940, sinkPinName:ZN
-srcName: g17764, srcPin: ZN, sinkName: g17764, sinkPinName:ZN
-srcName: g17876, srcPin: ZN, sinkName: g17876, sinkPinName:ZN
-srcName: g17755, srcPin: ZN, sinkName: g17755, sinkPinName:ZN
-srcName: g17754, srcPin: ZN, sinkName: g17754, sinkPinName:ZN
-srcName: g17758, srcPin: ZN, sinkName: g17758, sinkPinName:ZN
-srcName: g17752, srcPin: ZN, sinkName: g17752, sinkPinName:ZN
-srcName: g17745, srcPin: ZN, sinkName: g17745, sinkPinName:ZN
-srcName: g17874, srcPin: ZN, sinkName: g17874, sinkPinName:ZN
-srcName: g17730, srcPin: ZN, sinkName: g17730, sinkPinName:ZN
-srcName: g17773, srcPin: ZN, sinkName: g17773, sinkPinName:ZN
-srcName: g17838, srcPin: ZN, sinkName: g17838, sinkPinName:ZN
-srcName: g17763, srcPin: ZN, sinkName: g17763, sinkPinName:ZN
-srcName: g17762, srcPin: ZN, sinkName: g17762, sinkPinName:ZN
-srcName: g17936, srcPin: ZN, sinkName: g17936, sinkPinName:ZN
-srcName: g17955, srcPin: ZN, sinkName: g17955, sinkPinName:ZN
-srcName: g17756, srcPin: ZN, sinkName: g17756, sinkPinName:ZN
-srcName: g17926, srcPin: ZN, sinkName: g17926, sinkPinName:ZN
-srcName: g17744, srcPin: ZN, sinkName: g17744, sinkPinName:ZN
-srcName: g17743, srcPin: ZN, sinkName: g17743, sinkPinName:ZN
-srcName: g17810, srcPin: ZN, sinkName: g17810, sinkPinName:ZN
-srcName: g17741, srcPin: ZN, sinkName: g17741, sinkPinName:ZN
-srcName: g17740, srcPin: ZN, sinkName: g17740, sinkPinName:ZN
-srcName: g17772, srcPin: ZN, sinkName: g17772, sinkPinName:ZN
-srcName: g17720, srcPin: ZN, sinkName: g17720, sinkPinName:ZN
-srcName: g17717, srcPin: ZN, sinkName: g17717, sinkPinName:ZN
-srcName: g17703, srcPin: ZN, sinkName: g17703, sinkPinName:ZN
-srcName: g17815, srcPin: ZN, sinkName: g17815, sinkPinName:ZN
-srcName: g17702, srcPin: ZN, sinkName: g17702, sinkPinName:ZN
-srcName: g17700, srcPin: ZN, sinkName: g17700, sinkPinName:ZN
-srcName: g17771, srcPin: ZN, sinkName: g17771, sinkPinName:ZN
-srcName: g17767, srcPin: ZN, sinkName: g17767, sinkPinName:ZN
-srcName: g17769, srcPin: ZN, sinkName: g17769, sinkPinName:ZN
-srcName: g17760, srcPin: ZN, sinkName: g17760, sinkPinName:ZN
-srcName: g17865, srcPin: ZN, sinkName: g17865, sinkPinName:ZN
-srcName: g17807, srcPin: ZN, sinkName: g17807, sinkPinName:ZN
-srcName: g17768, srcPin: ZN, sinkName: g17768, sinkPinName:ZN
-srcName: g17941, srcPin: ZN, sinkName: g17941, sinkPinName:ZN
-srcName: g17780, srcPin: ZN, sinkName: g17780, sinkPinName:ZN
-srcName: g17750, srcPin: ZN, sinkName: g17750, sinkPinName:ZN
-srcName: g17746, srcPin: ZN, sinkName: g17746, sinkPinName:ZN
-srcName: g17878, srcPin: ZN, sinkName: g17878, sinkPinName:ZN
-srcName: g17814, srcPin: ZN, sinkName: g17814, sinkPinName:ZN
-srcName: g17765, srcPin: ZN, sinkName: g17765, sinkPinName:ZN
-srcName: g17733, srcPin: ZN, sinkName: g17733, sinkPinName:ZN
-srcName: g17718, srcPin: ZN, sinkName: g17718, sinkPinName:ZN
-srcName: g17714, srcPin: ZN, sinkName: g17714, sinkPinName:ZN
-srcName: g17880, srcPin: ZN, sinkName: g17880, sinkPinName:ZN
-srcName: g17641, srcPin: ZN, sinkName: g17641, sinkPinName:ZN
-srcName: g17732, srcPin: ZN, sinkName: g17732, sinkPinName:ZN
-srcName: g17735, srcPin: ZN, sinkName: g17735, sinkPinName:ZN
-srcName: g17726, srcPin: ZN, sinkName: g17726, sinkPinName:ZN
-srcName: g17723, srcPin: ZN, sinkName: g17723, sinkPinName:ZN
-srcName: g17722, srcPin: ZN, sinkName: g17722, sinkPinName:ZN
-srcName: g17721, srcPin: ZN, sinkName: g17721, sinkPinName:ZN
-srcName: g17956, srcPin: ZN, sinkName: g17956, sinkPinName:ZN
-srcName: g17719, srcPin: ZN, sinkName: g17719, sinkPinName:ZN
-srcName: g17713, srcPin: ZN, sinkName: g17713, sinkPinName:ZN
-srcName: g17686, srcPin: ZN, sinkName: g17686, sinkPinName:ZN
-srcName: g17877, srcPin: ZN, sinkName: g17877, sinkPinName:ZN
-srcName: g17699, srcPin: ZN, sinkName: g17699, sinkPinName:ZN
-srcName: g17679, srcPin: ZN, sinkName: g17679, sinkPinName:ZN
-srcName: g17678, srcPin: ZN, sinkName: g17678, sinkPinName:ZN
-srcName: g17731, srcPin: ZN, sinkName: g17731, sinkPinName:ZN
-srcName: g17806, srcPin: ZN, sinkName: g17806, sinkPinName:ZN
-srcName: g17716, srcPin: ZN, sinkName: g17716, sinkPinName:ZN
-srcName: g17938, srcPin: ZN, sinkName: g17938, sinkPinName:ZN
-srcName: g17681, srcPin: ZN, sinkName: g17681, sinkPinName:ZN
-srcName: g17881, srcPin: ZN, sinkName: g17881, sinkPinName:ZN
-srcName: g17655, srcPin: ZN, sinkName: g17655, sinkPinName:ZN
-srcName: g17885, srcPin: ZN, sinkName: g17885, sinkPinName:ZN
-srcName: g17870, srcPin: ZN, sinkName: g17870, sinkPinName:ZN
-srcName: g17843, srcPin: ZN, sinkName: g17843, sinkPinName:ZN
-srcName: g17694, srcPin: ZN, sinkName: g17694, sinkPinName:ZN
-srcName: g17917, srcPin: ZN, sinkName: g17917, sinkPinName:ZN
-srcName: g17680, srcPin: ZN, sinkName: g17680, sinkPinName:ZN
-srcName: g17629, srcPin: ZN, sinkName: g17629, sinkPinName:ZN
-srcName: g17712, srcPin: ZN, sinkName: g17712, sinkPinName:ZN
-srcName: g17922, srcPin: ZN, sinkName: g17922, sinkPinName:ZN
-srcName: g17711, srcPin: ZN, sinkName: g17711, sinkPinName:ZN
-srcName: g17742, srcPin: ZN, sinkName: g17742, sinkPinName:ZN
-srcName: g17707, srcPin: ZN, sinkName: g17707, sinkPinName:ZN
-srcName: g17728, srcPin: ZN, sinkName: g17728, sinkPinName:ZN
-srcName: g17781, srcPin: ZN, sinkName: g17781, sinkPinName:ZN
-srcName: g17691, srcPin: ZN, sinkName: g17691, sinkPinName:ZN
-srcName: g17687, srcPin: ZN, sinkName: g17687, sinkPinName:ZN
-srcName: g17628, srcPin: ZN, sinkName: g17628, sinkPinName:ZN
-srcName: g17682, srcPin: ZN, sinkName: g17682, sinkPinName:ZN
-srcName: g17677, srcPin: ZN, sinkName: g17677, sinkPinName:ZN
-srcName: g17676, srcPin: ZN, sinkName: g17676, sinkPinName:ZN
-srcName: g17624, srcPin: ZN, sinkName: g17624, sinkPinName:ZN
-srcName: g17704, srcPin: ZN, sinkName: g17704, sinkPinName:ZN
-srcName: g17695, srcPin: ZN, sinkName: g17695, sinkPinName:ZN
-srcName: g17697, srcPin: ZN, sinkName: g17697, sinkPinName:ZN
-srcName: g17664, srcPin: ZN, sinkName: g17664, sinkPinName:ZN
-srcName: g17759, srcPin: ZN, sinkName: g17759, sinkPinName:ZN
-srcName: g17715, srcPin: ZN, sinkName: g17715, sinkPinName:ZN
-srcName: g17708, srcPin: ZN, sinkName: g17708, sinkPinName:ZN
-srcName: g17692, srcPin: ZN, sinkName: g17692, sinkPinName:ZN
-srcName: g17690, srcPin: ZN, sinkName: g17690, sinkPinName:ZN
-srcName: g17950, srcPin: ZN, sinkName: g17950, sinkPinName:ZN
-srcName: g17674, srcPin: ZN, sinkName: g17674, sinkPinName:ZN
-srcName: g17665, srcPin: ZN, sinkName: g17665, sinkPinName:ZN
-srcName: g17875, srcPin: ZN, sinkName: g17875, sinkPinName:ZN
-srcName: g17907, srcPin: ZN, sinkName: g17907, sinkPinName:ZN
-srcName: g17709, srcPin: ZN, sinkName: g17709, sinkPinName:ZN
-srcName: g17863, srcPin: ZN, sinkName: g17863, sinkPinName:ZN
-srcName: g17668, srcPin: ZN, sinkName: g17668, sinkPinName:ZN
-srcName: g17657, srcPin: ZN, sinkName: g17657, sinkPinName:ZN
-srcName: g17705, srcPin: ZN, sinkName: g17705, sinkPinName:ZN
-srcName: g17698, srcPin: ZN, sinkName: g17698, sinkPinName:ZN
-srcName: g17652, srcPin: ZN, sinkName: g17652, sinkPinName:ZN
-srcName: g17689, srcPin: ZN, sinkName: g17689, sinkPinName:ZN
-srcName: g17642, srcPin: ZN, sinkName: g17642, sinkPinName:ZN
-srcName: g17672, srcPin: ZN, sinkName: g17672, sinkPinName:ZN
-srcName: g17669, srcPin: ZN, sinkName: g17669, sinkPinName:ZN
-srcName: g17688, srcPin: ZN, sinkName: g17688, sinkPinName:ZN
-srcName: g17778, srcPin: ZN, sinkName: g17778, sinkPinName:ZN
-srcName: g17660, srcPin: ZN, sinkName: g17660, sinkPinName:ZN
-srcName: g17737, srcPin: ZN, sinkName: g17737, sinkPinName:ZN
-srcName: g17701, srcPin: ZN, sinkName: g17701, sinkPinName:ZN
-srcName: g17648, srcPin: Z, sinkName: g17648, sinkPinName:Z
-srcName: g17659, srcPin: ZN, sinkName: g17659, sinkPinName:ZN
-srcName: g17645, srcPin: ZN, sinkName: g17645, sinkPinName:ZN
-srcName: g17684, srcPin: ZN, sinkName: g17684, sinkPinName:ZN
-srcName: g17662, srcPin: ZN, sinkName: g17662, sinkPinName:ZN
-srcName: g17954, srcPin: ZN, sinkName: g17954, sinkPinName:ZN
-srcName: g17667, srcPin: ZN, sinkName: g17667, sinkPinName:ZN
-srcName: g17919, srcPin: ZN, sinkName: g17919, sinkPinName:ZN
-srcName: g17673, srcPin: ZN, sinkName: g17673, sinkPinName:ZN
-srcName: g17670, srcPin: ZN, sinkName: g17670, sinkPinName:ZN
-srcName: g17696, srcPin: ZN, sinkName: g17696, sinkPinName:ZN
-srcName: g17625, srcPin: ZN, sinkName: g17625, sinkPinName:ZN
-srcName: g17650, srcPin: ZN, sinkName: g17650, sinkPinName:ZN
-srcName: g17649, srcPin: ZN, sinkName: g17649, sinkPinName:ZN
-srcName: g17661, srcPin: ZN, sinkName: g17661, sinkPinName:ZN
-srcName: g17630, srcPin: ZN, sinkName: g17630, sinkPinName:ZN
-srcName: g17627, srcPin: ZN, sinkName: g17627, sinkPinName:ZN
-srcName: g17802, srcPin: ZN, sinkName: g17802, sinkPinName:ZN
-srcName: g17866, srcPin: ZN, sinkName: g17866, sinkPinName:ZN
-srcName: g17637, srcPin: ZN, sinkName: g17637, sinkPinName:ZN
-srcName: g17727, srcPin: ZN, sinkName: g17727, sinkPinName:ZN
-srcName: g17871, srcPin: ZN, sinkName: g17871, sinkPinName:ZN
-srcName: g17620, srcPin: ZN, sinkName: g17620, sinkPinName:ZN
-srcName: g17949, srcPin: ZN, sinkName: g17949, sinkPinName:ZN
-srcName: g17623, srcPin: ZN, sinkName: g17623, sinkPinName:ZN
-srcName: g17643, srcPin: ZN, sinkName: g17643, sinkPinName:ZN
-srcName: g17626, srcPin: ZN, sinkName: g17626, sinkPinName:ZN
-srcName: g17653, srcPin: ZN, sinkName: g17653, sinkPinName:ZN
-srcName: g17639, srcPin: ZN, sinkName: g17639, sinkPinName:ZN
-srcName: g17633, srcPin: ZN, sinkName: g17633, sinkPinName:ZN
-srcName: g17644, srcPin: ZN, sinkName: g17644, sinkPinName:ZN
-srcName: g17618, srcPin: ZN, sinkName: g17618, sinkPinName:ZN
-srcName: g17638, srcPin: ZN, sinkName: g17638, sinkPinName:ZN
-srcName: g17634, srcPin: ZN, sinkName: g17634, sinkPinName:ZN
-srcName: g17663, srcPin: ZN, sinkName: g17663, sinkPinName:ZN
-srcName: g17632, srcPin: ZN, sinkName: g17632, sinkPinName:ZN
-srcName: g17776, srcPin: ZN, sinkName: g17776, sinkPinName:ZN
-srcName: g17615, srcPin: ZN, sinkName: g17615, sinkPinName:ZN
-srcName: g17631, srcPin: ZN, sinkName: g17631, sinkPinName:ZN
-srcName: g17622, srcPin: ZN, sinkName: g17622, sinkPinName:ZN
-srcName: g17734, srcPin: ZN, sinkName: g17734, sinkPinName:ZN
-srcName: g17621, srcPin: ZN, sinkName: g17621, sinkPinName:ZN
-srcName: g17617, srcPin: ZN, sinkName: g17617, sinkPinName:ZN
-srcName: g17725, srcPin: ZN, sinkName: g17725, sinkPinName:ZN
+Cell: g17954-->
+A: PIN: CONT1_REG_6__SCAN_IN
+
+Cell: g17944-->
+A: PIN: R_IN_REG_3__SCAN_IN
+
+Cell: g17945-->
+A: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17938-->
+A: PIN: CONT1_REG_1__SCAN_IN
+
+Cell: g17946-->
+A: PIN: STATO_REG_0__SCAN_IN
+
+Cell: g17943-->
+A: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17947-->
+A: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17772-->
+A1: g17823: ZN
+A2: PIN: CONT1_REG_3__SCAN_IN
+B1: g17853: ZN
+B2: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17920-->
+A1: g17935: ZN
+A2: PIN: CONT_REG_0__SCAN_IN
+
+Cell: g17909-->
+A2: g17937: ZN
+A1: g17946: ZN
+
+Cell: g17765-->
+B2: g17941: ZN
+B1: g17813: ZN
+A: g17827: ZN
+
+Cell: g17719-->
+C2: g17956: ZN
+B1: g17754: ZN
+B2: g17799: ZN
+C1: g17867: ZN
+A: g17830: ZN
+
+Cell: g17776-->
+A: g17780: ZN
+
+Cell: g17800-->
+B1: g17849: ZN
+B2: g17952: ZN
+A2: g17893: ZN
+A1: g17868: ZN
+
+Cell: g17794-->
+A: g17817: ZN
+B1: g17948: ZN
+B2: g17921: ZN
+
+Cell: g17717-->
+A1: g17747: ZN
+A2: g17889: ZN
+
+Cell: g17786-->
+A3: g17951: ZN
+A2: g17955: ZN
+A1: g17816: ZN
+
+Cell: g17783-->
+A: g17839: S
+C1: g17864: ZN
+B: g17837: CO
+C2: g17846: ZN
+
+Cell: g17754-->
+A1: g17778: ZN
+A2: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17752-->
+A: g17758: ZN
+
+Cell: g17757-->
+B2: g17950: ZN
+B1: g17812: ZN
+A2: PIN: CONT1_REG_4__SCAN_IN
+A1: g17879: ZN
+
+Cell: g17803-->
+A: g17903: ZN
+B: PIN: STATO_REG_2__SCAN_IN
+
+Cell: g17762-->
+A3: g17941: ZN
+A2: g17838: ZN
+A1: g17827: ZN
+B3: PIN: R_IN_REG_2__SCAN_IN
+B1: g17839: S
+B2: g17805: ZN
+
+Cell: g17876-->
+A1: g17899: ZN
+A2: g17927: ZN
+
+Cell: g17756-->
+A: g17955: ZN
+B2: g17913: ZN
+B1: g17816: ZN
+
+Cell: g17775-->
+A: g17777: ZN
+
+Cell: g17818-->
+A1: g17907: ZN
+A2: g17894: ZN
+
+Cell: g17870-->
+A2: g17916: ZN
+A1: g17915: ZN
+
+Cell: g17707-->
+B2: g17759: ZN
+B1: FE_OFC14_n_248: Z
+A: PIN: CONT_REG_4__SCAN_IN
+
+Cell: g17720-->
+A: g17925: ZN
+B1: g17772: ZN
+B2: g17926: ZN
+
+Cell: g17718-->
+A: g17747: ZN
+B2: g17857: ZN
+B1: g17751: CO
+
+Cell: g17914-->
+A1: g17953: ZN
+A2: PIN: CONT_REG_2__SCAN_IN
+
+Cell: g17703-->
+A2: g17922: ZN
+A1: g17717: ZN
+
+Cell: g17758-->
+A: g17826: ZN
+B2: PIN: R_IN_REG_2__SCAN_IN
+B1: g17808: ZN
+
+Cell: g17779-->
+A1: g17802: ZN
+A2: PIN: CONT1_REG_4__SCAN_IN
+
+Cell: g17761-->
+C1: g17861: ZN
+A: g17824: ZN
+C2: PIN: CONT1_REG_3__SCAN_IN
+B: g17918: ZN
+
+Cell: g17905-->
+A1: PIN: R_IN_REG_1__SCAN_IN
+A2: PIN: R_IN_REG_5__SCAN_IN
+
+Cell: g17702-->
+A1: g17815: ZN
+A2: g17717: ZN
+
+Cell: g17669-->
+A3: g17731: ZN
+A4: g17783: ZN
+A1: g17691: ZN
+A2: g17722: ZN
+
+Cell: g17700-->
+A1: g17716: ZN
+A2: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17784-->
+B1: g17937: ZN
+B2: PIN: R_IN_REG_1__SCAN_IN
+A: g17822: ZN
+
+Cell: g17796-->
+B1: g17874: ZN
+B2: g17942: ZN
+A2: g17940: ZN
+A1: g17844: ZN
+
+Cell: g17682-->
+A1: g17712: ZN
+A2: g17843: ZN
+
+Cell: g17760-->
+A3: g17907: ZN
+A2: g17809: ZN
+A1: g17786: ZN
+
+Cell: g17730-->
+A3: g17863: ZN
+A4: g17874: ZN
+A1: g17770: ZN
+A2: g17849: ZN
+
+Cell: g17768-->
+A1: g17807: ZN
+A2: PIN: CONT1_REG_5__SCAN_IN
+B1: g17865: ZN
+B2: PIN: X_OUT_REG_5__SCAN_IN
+
+Cell: g17846-->
+A1: g17899: ZN
+A2: g17892: ZN
+
+Cell: g17735-->
+A: g17772: ZN
+B: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17733-->
+A1: g17765: ZN
+A2: g17814: ZN
+B2: PIN: R_IN_REG_3__SCAN_IN
+B1: g17878: ZN
+
+Cell: g17852-->
+A: g17858: ZN
+
+Cell: g17721-->
+A: g17746: ZN
+C1: g17792: ZN
+C2: g17941: ZN
+B: g17797: ZN
+
+Cell: g17748-->
+B1: g17806: ZN
+B2: g17810: ZN
+A: g17769: ZN
+
+Cell: g17875-->
+A1: g17899: ZN
+A2: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17895-->
+B1: g17954: ZN
+B2: PIN: R_IN_REG_1__SCAN_IN
+A1: g17947: ZN
+A2: PIN: CONT1_REG_7__SCAN_IN
+
+Cell: g17925-->
+A2: PIN: CONT1_REG_4__SCAN_IN
+A1: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17714-->
+A: g17718: ZN
+
+Cell: g17939-->
+A: PIN: R_IN_REG_4__SCAN_IN
+
+Cell: g17942-->
+A: PIN: X_OUT_REG_0__SCAN_IN
+
+Cell: g17743-->
+A: g17885: ZN
+B2: g17946: ZN
+B1: g17784: ZN
+
+Cell: g17641-->
+C2: g17885: ZN
+C1: g17651: S
+B1: g17880: ZN
+B2: PIN: CONT_REG_4__SCAN_IN
+A: g17821: ZN
+
+Cell: g17858-->
+B1: g17938: ZN
+B2: PIN: STATO_REG_3__SCAN_IN
+A2: g17936: ZN
+A1: g17900: ZN
+
+Cell: g17726-->
+A: g17735: ZN
+
+Cell: g17673-->
+B3: g17919: ZN
+B1: g17802: ZN
+B2: g17851: ZN
+A3: PIN: R_IN_REG_0__SCAN_IN
+A1: g17698: ZN
+A2: g17789: ZN
+
+Cell: g17675-->
+B1: g17737: ZN
+B2: g17920: ZN
+A1: g17701: ZN
+A2: g17935: ZN
+
+Cell: g17917-->
+A: g17922: ZN
+
+Cell: g17712-->
+A: g17733: ZN
+B2: g17882: ZN
+B1: g17758: ZN
+
+Cell: g17741-->
+B1: g17778: ZN
+B2: g17924: ZN
+A2: g17917: ZN
+A1: g17810: ZN
+
+Cell: g17686-->
+A3: PIN: STATO_REG_3__SCAN_IN
+A2: g17917: ZN
+A1: g17699: ZN
+
+Cell: g17759-->
+A: g17775: ZN
+B2: g17936: ZN
+B1: g17874: ZN
+
+Cell: g17617-->
+B: g17622: ZN
+C2: g17776: ZN
+C1: g17659: ZN
+A: g17645: ZN
+
+Cell: g17843-->
+A2: g17939: ZN
+A1: g17890: ZN
+
+Cell: g17750-->
+C1: g17780: ZN
+A: g17876: ZN
+B: g17881: ZN
+C2: g17941: ZN
+
+Cell: g17742-->
+A3: g17951: ZN
+A4: PIN: CONT_REG_5__SCAN_IN
+A1: g17759: ZN
+A2: g17848: ZN
+
+Cell: g17678-->
+B1: g17716: ZN
+B2: PIN: CONT1_REG_5__SCAN_IN
+A: g17699: ZN
+
+Cell: g17731-->
+B2: g17885: ZN
+B1: g17794: ZN
+A2: g17875: ZN
+A1: g17762: ZN
+
+Cell: g17635-->
+A2: g17725: ZN
+A1: g17642: ZN
+B1: g17692: ZN
+B2: g17950: ZN
+
+Cell: g17728-->
+C1: g17919: ZN
+B: g17744: ZN
+C2: PIN: CONT1_REG_5__SCAN_IN
+A: g17841: ZN
+
+Cell: g17860-->
+A2: g17941: ZN
+A1: g17927: ZN
+B2: PIN: R_IN_REG_2__SCAN_IN
+B1: g17906: ZN
+
+Cell: g17740-->
+C1: g17871: ZN
+B2: g17802: ZN
+B1: g17850: ZN
+C2: g17900: ZN
+A: g17791: ZN
+
+Cell: g17671-->
+B2: g17716: ZN
+B1: g17702: ZN
+A: g17771: ZN
+
+Cell: g17956-->
+A: PIN: CONT_REG_2__SCAN_IN
+
+Cell: g17672-->
+A: g17725: ZN
+B2: g17749: ZN
+B1: g17711: ZN
+
+Cell: g17723-->
+B1: g17756: ZN
+B2: PIN: STATO_REG_2__SCAN_IN
+A: g17911: ZN
+
+Cell: g17681-->
+C1: g17750: ZN
+A: g17741: ZN
+C2: g17938: ZN
+B: g17740: ZN
+
+Cell: g17655-->
+C2: g17881: ZN
+B1: g17716: ZN
+B2: g17703: ZN
+A: g17790: ZN
+C1: g17729: ZN
+
+Cell: g17630-->
+A1: g17636: CO
+A2: g17885: ZN
+
+Cell: g17688-->
+A: g17695: ZN
+
+Cell: g17755-->
+A2: g17876: ZN
+A1: g17788: ZN
+
+Cell: g17734-->
+C1: g17760: ZN
+C2: g17937: ZN
+B: g17896: ZN
+A: g17785: ZN
+
+Cell: g17693-->
+A: g17767: ZN
+B1: g17806: ZN
+B2: g17718: ZN
+
+Cell: g17701-->
+A1: g17715: ZN
+A2: g17759: ZN
+
+Cell: g17698-->
+A: g17705: ZN
+
+Cell: g17792-->
+B1: g17907: ZN
+B2: g17836: ZN
+A: g17901: ZN
+
+Cell: g17727-->
+A3: PIN: CONT_REG_0__SCAN_IN
+A1: FE_OFC14_n_248: Z
+A2: PIN: CONT_REG_1__SCAN_IN
+
+Cell: g17632-->
+A: g17663: ZN
+B2: PIN: CONT1_REG_8__SCAN_IN
+B1: g17639: ZN
+
+Cell: g17725-->
+A: FE_OFC16_n_344: Z
+
+Cell: g17782-->
+C1: g17941: ZN
+A: g17856: ZN
+B1: g17888: ZN
+B2: PIN: R_IN_REG_2__SCAN_IN
+C2: g17897: ZN
+
+Cell: g17695-->
+B1: g17954: ZN
+B2: PIN: R_IN_REG_3__SCAN_IN
+A1: g17728: ZN
+A2: g17931: ZN
+
+Cell: g17770-->
+B1: g17917: ZN
+B2: g17911: ZN
+A1: g17881: ZN
+A2: g17809: ZN
+
+Cell: g17713-->
+C1: g17878: ZN
+B2: g17814: ZN
+B1: g17752: ZN
+C2: PIN: R_IN_REG_3__SCAN_IN
+A1: g17765: ZN
+A2: g17887: ZN
+
+Cell: g17930-->
+A1: g17954: ZN
+A2: PIN: STATO_REG_3__SCAN_IN
+
+Cell: g17650-->
+A: g17667: ZN
+B: g17954: ZN
+
+Cell: g17771-->
+A1: g17807: ZN
+A2: PIN: CONT1_REG_4__SCAN_IN
+B1: g17865: ZN
+B2: PIN: X_OUT_REG_4__SCAN_IN
+
+Cell: g17651-->
+A: g17736: ZN
+B: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17676-->
+B1: g17712: ZN
+B2: g17820: ZN
+A1: g17713: ZN
+A2: g17774: ZN
+
+Cell: g17810-->
+A1: g17852: ZN
+A2: g17902: ZN
+
+Cell: g17710-->
+A: g17730: ZN
+B1: g17782: ZN
+B2: g17862: ZN
+
+Cell: g17648-->
+B: g17840: S
+A: g17674: ZN
+
+Cell: g17625-->
+C1: g17696: ZN
+A: g17629: ZN
+B: g17657: ZN
+C2: g17781: ZN
+
+Cell: g17662-->
+A1: g17684: ZN
+A2: PIN: CONT_REG_2__SCAN_IN
+
+Cell: g17670-->
+A: g17684: ZN
+B1: FE_OFC14_n_248: Z
+B2: g17956: ZN
+
+Cell: g17929-->
+A2: PIN: R_IN_REG_2__SCAN_IN
+A1: PIN: R_IN_REG_3__SCAN_IN
+
+Cell: g17620-->
+B2: g17871: ZN
+B1: g17650: ZN
+A: g17624: ZN
+C2: g17930: ZN
+C1: g17680: ZN
+
+Cell: g17898-->
+A: g17906: ZN
+
+Cell: g17904-->
+A2: PIN: CONT_REG_2__SCAN_IN
+A1: PIN: CONT_REG_3__SCAN_IN
+
+Cell: FE_OFC16_n_344-->
+A: g17734: ZN
+
+Cell: g17872-->
+A1: g17907: ZN
+A2: g17940: ZN
+
+Cell: g17626-->
+A1: g17643: ZN
+A2: g17630: ZN
+
+Cell: g17821-->
+A: g17828: ZN
+
+Cell: FE_OFC17_n_113-->
+A: g17855: ZN
+
+Cell: g17737-->
+A: FE_OFC14_n_248: Z
+
+Cell: g17624-->
+A: g17679: ZN
+B2: g17885: ZN
+B1: g17636: S
+C2: PIN: CONT_REG_5__SCAN_IN
+C1: g17880: ZN
+
+Cell: g17696-->
+A: g17720: ZN
+B: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: FE_OFC15_n_330-->
+A: g17653: ZN
+
+Cell: g17639-->
+A: g17643: ZN
+B1: FE_OFC15_n_330: Z
+B2: g17863: ZN
+
+Cell: g17873-->
+A1: g17919: ZN
+A2: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17694-->
+A: g17712: ZN
+B: g17843: ZN
+C2: PIN: R_IN_REG_5__SCAN_IN
+C1: g17870: ZN
+
+Cell: g17836-->
+A: g17921: ZN
+
+Cell: g17644-->
+A2: g17871: ZN
+A1: FE_OFC15_n_330: Z
+
+Cell: g17749-->
+C1: g17885: ZN
+A: g17793: ZN
+B1: g17880: ZN
+B2: PIN: CONT_REG_1__SCAN_IN
+C2: g17837: S
+
+Cell: g17911-->
+A1: PIN: STATO_REG_2__SCAN_IN
+A2: PIN: STBI
+
+Cell: g17744-->
+A1: g17772: ZN
+A2: g17873: ZN
+A3: g17926: ZN
+
+Cell: g17830-->
+B1: g17901: ZN
+B2: PIN: R_IN_REG_3__SCAN_IN
+A1: g17886: ZN
+A2: PIN: CONT_REG_3__SCAN_IN
+
+Cell: g17708-->
+A: g17715: ZN
+B2: PIN: CONT_REG_0__SCAN_IN
+B1: g17759: ZN
+
+Cell: g17739-->
+A1: g17817: ZN
+A2: PIN: CONT1_REG_4__SCAN_IN
+
+Cell: g17867-->
+A: g17880: ZN
+
+Cell: g17916-->
+A1: g17943: ZN
+A2: g17947: ZN
+
+Cell: g17638-->
+A: g17660: ZN
+C1: FE_OFC15_n_330: Z
+B: g17644: ZN
+C2: g17875: ZN
+
+Cell: g17826-->
+B1: g17945: ZN
+B2: g17906: ZN
+A: g17921: ZN
+
+Cell: g17901-->
+A: g17909: ZN
+
+Cell: g17690-->
+B2: g17766: ZN
+B1: FE_OFC16_n_344: Z
+A: g17945: ZN
+
+Cell: g17663-->
+A1: g17680: ZN
+A2: g17936: ZN
+
+Cell: g17767-->
+A1: g17807: ZN
+A2: PIN: CONT1_REG_3__SCAN_IN
+B1: g17865: ZN
+B2: PIN: X_OUT_REG_3__SCAN_IN
+
+Cell: g17882-->
+A: g17887: ZN
+
+Cell: g17683-->
+B1: g17727: ZN
+B2: g17904: ZN
+A: g17707: ZN
+
+Cell: g17636-->
+A: g17651: CO
+B: PIN: CONT1_REG_6__SCAN_IN
+
+Cell: g17798-->
+B1: g17839: S
+B2: FE_OFC17_n_113: Z
+A1: g17838: ZN
+A2: g17851: ZN
+
+Cell: g17928-->
+A1: g17941: ZN
+A2: g17944: ZN
+
+Cell: g17773-->
+C1: g17802: ZN
+B: g17917: ZN
+C2: g17941: ZN
+A: g17881: ZN
+
+Cell: g17699-->
+A1: g17716: ZN
+A2: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17711-->
+A: g17721: ZN
+B2: g17922: ZN
+B1: g17751: S
+C2: g17795: ZN
+C1: g17825: ZN
+
+Cell: g17842-->
+A1: g17872: ZN
+A2: g17909: ZN
+
+Cell: g17847-->
+A2: g17927: ZN
+A1: g17891: ZN
+
+Cell: g17812-->
+A2: g17916: ZN
+A1: g17840: CO
+
+Cell: g17622-->
+A: g17663: ZN
+C1: g17667: ZN
+B1: g17626: ZN
+B2: PIN: CONT1_REG_7__SCAN_IN
+C2: g17818: ZN
+
+Cell: g17640-->
+B2: g17725: ZN
+B1: g17669: ZN
+A: g17745: ZN
+C1: FE_OFC16_n_344: Z
+C2: g17948: ZN
+
+Cell: g17623-->
+C2: g17949: ZN
+B: g17627: ZN
+A: PIN: CONT1_REG_8__SCAN_IN
+C1: g17665: ZN
+
+Cell: g17685-->
+B2: g17917: ZN
+B1: g17723: ZN
+A: g17743: ZN
+C2: PIN: R_IN_REG_5__SCAN_IN
+C1: g17800: ZN
+
+Cell: g17795-->
+A1: g17941: ZN
+A2: PIN: CONT1_REG_1__SCAN_IN
+B3: PIN: CONT1_REG_1__SCAN_IN
+B1: g17945: ZN
+B2: PIN: R_IN_REG_2__SCAN_IN
+A3: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17951-->
+A: PIN: STATO_REG_1__SCAN_IN
+
+Cell: g17871-->
+A1: g17907: ZN
+A2: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17691-->
+C2: g17922: ZN
+A: g17719: ZN
+B2: g17781: ZN
+B1: g17761: ZN
+C1: g17714: ZN
+
+Cell: g17706-->
+A: g17708: ZN
+
+Cell: g17764-->
+C1: g17811: ZN
+B: g17839: S
+C2: g17921: ZN
+A: g17899: ZN
+
+Cell: g17859-->
+C1: g17912: ZN
+A: PIN: CONT1_REG_4__SCAN_IN
+C2: PIN: CONT1_REG_2__SCAN_IN
+B: PIN: CONT1_REG_3__SCAN_IN
+
+Cell: g17896-->
+A: g17903: ZN
+
+Cell: g17637-->
+A3: g17866: ZN
+B2: g17802: ZN
+B1: g17696: ZN
+A2: g17725: ZN
+A1: g17648: Z
+B3: g17919: ZN
+
+Cell: g17912-->
+A1: g17938: ZN
+A2: g17940: ZN
+
+Cell: g17618-->
+A4: g17725: ZN
+A1: g17644: ZN
+A2: g17686: ZN
+A3: g17628: ZN
+
+Cell: g17716-->
+A1: g17747: ZN
+A2: g17889: ZN
+
+Cell: g17660-->
+B1: g17778: ZN
+B2: PIN: CONT1_REG_7__SCAN_IN
+A1: g17688: ZN
+A2: g17780: ZN
+
+Cell: g17738-->
+A1: g17759: ZN
+A2: PIN: CONT_REG_5__SCAN_IN
+
+Cell: g17831-->
+S: g17883: ZN
+B: PIN: X_IN_5_
+A: PIN: R_IN_REG_5__SCAN_IN
+
+Cell: g17745-->
+A3: PIN: R_IN_REG_2__SCAN_IN
+A2: g17803: CO
+A1: g17798: ZN
+
+Cell: g17657-->
+A3: g17840: S
+A2: g17863: ZN
+A1: g17668: ZN
+
+Cell: FE_OFC14_n_248-->
+A: g17742: ZN
+
+Cell: g17642-->
+B2: g17907: ZN
+B1: g17676: ZN
+A: g17655: ZN
+C2: g17779: ZN
+C1: g17735: ZN
+
+Cell: g17665-->
+A2: g17776: ZN
+A1: g17688: ZN
+
+Cell: g17697-->
+B: g17954: ZN
+A: g17728: ZN
+
+Cell: g17613-->
+A2: g17725: ZN
+A1: g17615: ZN
+C2: g17954: ZN
+C1: FE_OFC16_n_344: Z
+B1: g17649: ZN
+B2: g17704: ZN
+
+Cell: g17631-->
+A: g17632: ZN
+
+Cell: g17791-->
+C1: g17886: ZN
+B1: g17880: ZN
+B2: PIN: CONT_REG_0__SCAN_IN
+A1: g17901: ZN
+A2: PIN: R_IN_REG_1__SCAN_IN
+C2: PIN: CONT_REG_1__SCAN_IN
+
+Cell: g17687-->
+A: g17694: ZN
+
+Cell: g17680-->
+A2: g17922: ZN
+A1: g17699: ZN
+
+Cell: g17621-->
+B1: g17634: ZN
+B2: PIN: CONT1_REG_8__SCAN_IN
+A: g17623: ZN
+
+Cell: g17780-->
+A1: g17803: CO
+A2: g17944: ZN
+
+Cell: g17746-->
+B1: g17863: ZN
+B2: g17845: ZN
+A2: g17781: ZN
+A1: g17801: ZN
+
+Cell: g17656-->
+B1: g17709: ZN
+B2: g17938: ZN
+A2: g17725: ZN
+A1: g17681: ZN
+
+Cell: g17653-->
+C1: g17954: ZN
+B: g17667: ZN
+C2: PIN: CONT1_REG_7__SCAN_IN
+A: g17895: ZN
+
+Cell: g17646-->
+A1: g17670: ZN
+A2: g17953: ZN
+B1: g17727: ZN
+B2: g17914: ZN
+
+Cell: g17709-->
+A: g17725: ZN
+C1: g17875: ZN
+B1: g17907: ZN
+B2: g17898: ZN
+C2: g17940: ZN
+
+Cell: g17633-->
+C1: g17725: ZN
+A: g17637: ZN
+C2: PIN: CONT1_REG_5__SCAN_IN
+B1: g17652: ZN
+B2: g17705: ZN
+
+Cell: g17866-->
+A: g17875: ZN
+
+Cell: g17652-->
+A2: g17840: S
+A1: g17668: ZN
+
+Cell: g17724-->
+A: g17732: ZN
+
+Cell: g17862-->
+A: g17868: ZN
+
+Cell: g17888-->
+A2: PIN: R_IN_REG_0__SCAN_IN
+A1: PIN: R_IN_REG_1__SCAN_IN
+A4: PIN: R_IN_REG_5__SCAN_IN
+A3: PIN: R_IN_REG_4__SCAN_IN
+
+Cell: g17616-->
+A: g17621: ZN
+B2: g17725: ZN
+B1: g17631: ZN
+C1: FE_OFC16_n_344: Z
+C2: g17955: ZN
+
+Cell: g17659-->
+A: g17695: ZN
+B: PIN: CONT1_REG_7__SCAN_IN
+
+Cell: g17667-->
+A: g17687: ZN
+C1: g17757: ZN
+B1: g17870: ZN
+B2: PIN: R_IN_REG_5__SCAN_IN
+C2: PIN: R_IN_REG_4__SCAN_IN
+
+Cell: g17689-->
+A: PIN: CONT1_REG_0__SCAN_IN
+B1: g17725: ZN
+B2: g17773: ZN
+
+Cell: g17677-->
+A: g17682: ZN
+
+Cell: g17661-->
+A1: g17688: ZN
+A2: PIN: R_IN_REG_3__SCAN_IN
+B1: g17944: ZN
+B2: PIN: CONT1_REG_7__SCAN_IN
+
+Cell: g17668-->
+B1: g17950: ZN
+B2: g17939: ZN
+A: g17682: ZN
+
+Cell: g17614-->
+A2: g17725: ZN
+A1: g17617: ZN
+B2: g17949: ZN
+B1: g17618: ZN
+
+Cell: g17674-->
+B1: g17950: ZN
+B2: PIN: R_IN_REG_4__SCAN_IN
+A: g17677: ZN
+
+Cell: g17615-->
+C2: g17776: ZN
+B: g17620: ZN
+C1: g17697: ZN
+A: g17664: ZN
+
+Cell: g17935-->
+A: PIN: CONT_REG_1__SCAN_IN
+
+Cell: g17705-->
+A1: g17725: ZN
+A2: g17871: ZN
+
+Cell: g17927-->
+A1: g17952: ZN
+A2: PIN: CONT1_REG_0__SCAN_IN
+
+Cell: g17692-->
+A: g17725: ZN
+B1: g17726: ZN
+B2: g17803: CO
+
+Cell: g17801-->
+B: g17945: ZN
+A: g17861: ZN
+
+Cell: g17619-->
+B2: g17725: ZN
+B1: g17625: ZN
+A: g17633: ZN
+
+Cell: g17863-->
+A: g17871: ZN
+
+Cell: g17649-->
+A: g17650: ZN
+
+Cell: g17704-->
+A2: g17875: ZN
+A1: FE_OFC16_n_344: Z
+
+Cell: g17664-->
+A2: g17778: ZN
+A1: g17697: ZN
+
+Cell: g17806-->
+A: g17815: ZN
+
+Cell: g17628-->
+A: g17877: ZN
+B1: g17636: CO
+B2: g17881: ZN
+
+Cell: g17781-->
+A1: g17802: ZN
+A2: g17928: ZN
+
+Cell: g17817-->
+A1: g17948: ZN
+A2: g17921: ZN
+
+Cell: g17787-->
+A1: g17842: ZN
+A2: PIN: R_IN_REG_0__SCAN_IN
+B1: g17886: ZN
+B2: PIN: CONT_REG_0__SCAN_IN
+
+Cell: g17815-->
+A2: g17955: ZN
+A1: g17844: ZN
+
+Cell: g17747-->
+B2: g17936: ZN
+B1: g17923: ZN
+C2: PIN: STATO_REG_3__SCAN_IN
+C1: PIN: CONT1_REG_3__SCAN_IN
+A1: g17858: ZN
+A2: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17774-->
+A: g17820: ZN
+
+Cell: g17845-->
+A2: g17906: ZN
+A1: g17891: ZN
+
+Cell: g17658-->
+B1: g17727: ZN
+B2: PIN: CONT_REG_2__SCAN_IN
+A: g17662: ZN
+
+Cell: g17777-->
+A2: g17868: ZN
+A1: g17819: ZN
+
+Cell: g17778-->
+A1: g17803: CO
+A2: PIN: R_IN_REG_3__SCAN_IN
+
+Cell: g17785-->
+A3: PIN: STATO_REG_1__SCAN_IN
+A2: g17937: ZN
+A1: g17819: ZN
+
+Cell: g17788-->
+A3: g17940: ZN
+A1: g17803: CO
+A2: g17941: ZN
+
+Cell: g17797-->
+B1: g17886: ZN
+B2: PIN: CONT_REG_2__SCAN_IN
+A1: g17875: ZN
+A2: g17847: ZN
+
+Cell: g17751-->
+B: g17945: ZN
+A: g17858: ZN
+
+Cell: g17915-->
+A1: PIN: CONT1_REG_5__SCAN_IN
+A2: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17816-->
+A1: g17859: ZN
+A2: g17943: ZN
+
+Cell: g17907-->
+A1: g17951: ZN
+A2: g17946: ZN
+
+Cell: g17949-->
+A: PIN: CONT1_REG_7__SCAN_IN
+
+Cell: g17940-->
+A: PIN: CONT1_REG_0__SCAN_IN
+
+Cell: g17879-->
+A: g17915: ZN
+B2: PIN: R_IN_REG_5__SCAN_IN
+B1: PIN: CONT1_REG_5__SCAN_IN
+
+Cell: g17841-->
+A1: g17873: ZN
+A2: g17925: ZN
+
+Cell: g17948-->
+A: PIN: CONT1_REG_3__SCAN_IN
+
+Cell: g17684-->
+A: g17701: ZN
+B2: PIN: CONT_REG_1__SCAN_IN
+B1: g17737: ZN
+
+Cell: g17953-->
+A: PIN: CONT_REG_3__SCAN_IN
+
+Cell: g17790-->
+C1: g17886: ZN
+B1: g17880: ZN
+B2: PIN: CONT_REG_3__SCAN_IN
+A1: g17901: ZN
+A2: PIN: R_IN_REG_4__SCAN_IN
+C2: PIN: CONT_REG_4__SCAN_IN
+
+Cell: g17802-->
+A: g17803: CO
+
+Cell: g17804-->
+A: g17808: ZN
+
+Cell: g17811-->
+A1: g17860: ZN
+A2: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17805-->
+A: g17813: ZN
+
+Cell: g17921-->
+A1: PIN: CONT1_REG_1__SCAN_IN
+A2: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17824-->
+A3: PIN: CONT1_REG_3__SCAN_IN
+A1: g17861: ZN
+A2: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17763-->
+B3: g17941: ZN
+A1: g17838: ZN
+A2: g17826: ZN
+A3: PIN: R_IN_REG_2__SCAN_IN
+B1: g17839: S
+B2: g17804: ZN
+
+Cell: g17822-->
+A3: PIN: STATO_REG_1__SCAN_IN
+A1: g17856: ZN
+A2: g17905: ZN
+
+Cell: g17850-->
+A: g17854: ZN
+
+Cell: g17823-->
+A2: g17928: ZN
+A1: FE_OFC17_n_113: Z
+A3: g17929: ZN
+
+Cell: g17820-->
+A: g17843: ZN
+B1: g17890: ZN
+B2: g17939: ZN
+
+Cell: g17828-->
+B1: g17901: ZN
+B2: PIN: R_IN_REG_5__SCAN_IN
+A1: g17886: ZN
+A2: PIN: CONT_REG_5__SCAN_IN
+
+Cell: g17854-->
+A: PIN: R_IN_REG_2__SCAN_IN
+B1: g17900: ZN
+B2: g17902: ZN
+
+Cell: g17897-->
+A: g17905: ZN
+
+Cell: g17736-->
+A: g17739: ZN
+
+Cell: g17643-->
+A2: g17866: ZN
+A1: FE_OFC15_n_330: Z
+
+Cell: g17868-->
+A2: g17951: ZN
+A1: g17909: ZN
+
+Cell: g17910-->
+A1: PIN: R_IN_REG_0__SCAN_IN
+A2: PIN: R_IN_REG_4__SCAN_IN
+
+Cell: g17891-->
+A2: g17941: ZN
+A1: g17945: ZN
+B2: PIN: R_IN_REG_2__SCAN_IN
+B1: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17793-->
+A2: g17938: ZN
+A1: g17899: ZN
+A3: PIN: R_IN_REG_2__SCAN_IN
+A4: PIN: CONT1_REG_2__SCAN_IN
+
+Cell: g17814-->
+A1: g17933: ZN
+A2: g17839: CO
+
+Cell: g17878-->
+A2: g17933: ZN
+A1: g17932: ZN
+
+Cell: g17869-->
+A1: g17905: ZN
+A2: g17910: ZN
+
+Cell: g17753-->
+A2: g17802: ZN
+A1: g17777: ZN
+
+Cell: g17931-->
+A1: g17944: ZN
+A2: PIN: CONT1_REG_6__SCAN_IN
+
+Cell: g17819-->
+A2: g17928: ZN
+A1: g17869: ZN
+B1: g17888: ZN
+B2: g17929: ZN
+
+Cell: g17827-->
+B2: g17945: ZN
+B1: g17927: ZN
+A: g17921: ZN
+
+Cell: g17722-->
+A: g17764: ZN
+B2: g17863: ZN
+B1: g17763: ZN
+
+Cell: g17809-->
+A2: g17955: ZN
+A1: g17913: ZN
+
+Cell: g17838-->
+A: g17839: S
+
+Cell: g17832-->
+S: g17883: ZN
+B: PIN: X_IN_3_
+A: PIN: R_IN_REG_3__SCAN_IN
+
+Cell: g17732-->
+C1: g17865: ZN
+A2: g17751: S
+A1: g17815: ZN
+B1: g17807: ZN
+B2: PIN: CONT1_REG_2__SCAN_IN
+C2: PIN: X_OUT_REG_2__SCAN_IN
+
+Cell: g17848-->
+A1: g17884: ZN
+A2: PIN: CONT_REG_4__SCAN_IN
+A3: PIN: CONT_REG_3__SCAN_IN
+
+Cell: g17918-->
+A: g17923: ZN
+
+Cell: g17853-->
+B1: g17928: ZN
+B2: g17908: ZN
+A: g17929: ZN
+
+Cell: g17829-->
+S: g17883: ZN
+B: PIN: X_IN_2_
+A: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17864-->
+A: g17872: ZN
+
+Cell: g17874-->
+A1: g17899: ZN
+A2: PIN: STATO_REG_2__SCAN_IN
+
+Cell: g17647-->
+A3: g17690: ZN
+A2: g17673: ZN
+A1: g17672: ZN
+
+Cell: g17834-->
+S: g17883: ZN
+B: PIN: X_IN_4_
+A: PIN: R_IN_REG_4__SCAN_IN
+
+Cell: g17833-->
+S: g17883: ZN
+B: PIN: X_IN_0_
+A: PIN: R_IN_REG_0__SCAN_IN
+
+Cell: g17883-->
+A3: PIN: STATO_REG_1__SCAN_IN
+A1: PIN: STATO_REG_3__SCAN_IN
+A2: PIN: STATO_REG_2__SCAN_IN
+
+Cell: g17851-->
+A: FE_OFC17_n_113: Z
+
+Cell: g17849-->
+A3: PIN: R_IN_REG_2__SCAN_IN
+A2: g17944: ZN
+A1: g17862: ZN
+
+Cell: g17855-->
+C1: g17941: ZN
+C2: PIN: CONT1_REG_0__SCAN_IN
+A: PIN: CONT1_REG_2__SCAN_IN
+B1: g17929: ZN
+B2: PIN: CONT1_REG_1__SCAN_IN
+
+Cell: g17666-->
+C1: g17725: ZN
+A: g17689: ZN
+C2: g17787: ZN
+B: g17755: ZN
+
+Cell: g17856-->
+B1: g17941: ZN
+B2: PIN: R_IN_REG_3__SCAN_IN
+A1: g17910: ZN
+A2: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17627-->
+A: g17630: ZN
+B2: g17803: CO
+B1: g17661: ZN
+
+Cell: g17857-->
+A2: g17936: ZN
+A1: g17923: ZN
+B2: PIN: CONT1_REG_3__SCAN_IN
+B1: PIN: STATO_REG_3__SCAN_IN
+
+Cell: g17861-->
+B1: g17938: ZN
+B2: PIN: R_IN_REG_3__SCAN_IN
+A1: g17908: ZN
+A2: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17881-->
+A: g17885: ZN
+
+Cell: g17887-->
+B1: g17944: ZN
+B2: PIN: CONT1_REG_3__SCAN_IN
+A: g17932: ZN
+
+Cell: g17634-->
+A: g17638: ZN
+B1: g17661: ZN
+B2: g17802: ZN
+
+Cell: g17877-->
+A2: g17922: ZN
+A1: g17930: ZN
+
+Cell: g17789-->
+A: g17795: ZN
+
+Cell: g17840-->
+A: g17943: ZN
+B: PIN: R_IN_REG_5__SCAN_IN
+
+Cell: g17839-->
+A: g17944: ZN
+B: g17948: ZN
+
+Cell: g17884-->
+A1: g17956: ZN
+A2: g17934: ZN
+A3: g17935: ZN
+
+Cell: g17825-->
+A: g17872: ZN
+B1: g17866: ZN
+B2: g17952: ZN
+
+Cell: g17645-->
+A1: g17659: ZN
+A2: g17778: ZN
+
+Cell: g17837-->
+A: g17938: ZN
+B: g17945: ZN
+
+Cell: g17880-->
+A3: PIN: STATO_REG_2__SCAN_IN
+A1: g17952: ZN
+A2: g17946: ZN
+
+Cell: g17885-->
+A3: PIN: STATO_REG_0__SCAN_IN
+A2: g17951: ZN
+A1: g17937: ZN
+
+Cell: g17924-->
+A2: PIN: CONT1_REG_1__SCAN_IN
+A1: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17894-->
+B1: g17954: ZN
+B2: PIN: CONT1_REG_7__SCAN_IN
+A1: g17949: ZN
+A2: PIN: CONT1_REG_6__SCAN_IN
+
+Cell: g17889-->
+B1: g17950: ZN
+B2: g17936: ZN
+A2: PIN: CONT1_REG_4__SCAN_IN
+A1: PIN: STATO_REG_3__SCAN_IN
+
+Cell: g17890-->
+A2: g17950: ZN
+A1: g17947: ZN
+B1: PIN: R_IN_REG_1__SCAN_IN
+B2: PIN: CONT1_REG_4__SCAN_IN
+
+Cell: g17654-->
+A: g17768: ZN
+B2: g17806: ZN
+B1: g17678: ZN
+
+Cell: g17892-->
+A1: g17952: ZN
+A2: PIN: R_IN_REG_2__SCAN_IN
+B1: g17941: ZN
+B2: PIN: R_IN_REG_0__SCAN_IN
+
+Cell: g17893-->
+B1: g17944: ZN
+B2: PIN: R_IN_REG_4__SCAN_IN
+A1: g17947: ZN
+A2: PIN: R_IN_REG_3__SCAN_IN
+
+Cell: g17629-->
+A: g17680: ZN
+C1: g17700: ZN
+C2: g17917: ZN
+B: g17641: ZN
+
+Cell: g17808-->
+A1: g17837: CO
+A2: g17906: ZN
+
+Cell: g17899-->
+A: g17907: ZN
+
+Cell: g17807-->
+A1: g17844: ZN
+A2: PIN: CONT1_REG_8__SCAN_IN
+
+Cell: g17919-->
+A: g17928: ZN
+
+Cell: g17902-->
+A: g17912: ZN
+
+Cell: g17903-->
+A1: g17951: ZN
+A2: g17946: ZN
+
+Cell: g17913-->
+A1: g17949: ZN
+A2: g17954: ZN
+
+Cell: g17886-->
+A3: PIN: R_IN_REG_0__SCAN_IN
+A1: g17946: ZN
+A2: PIN: STATO_REG_2__SCAN_IN
+
+Cell: g17769-->
+A1: g17807: ZN
+A2: PIN: CONT1_REG_1__SCAN_IN
+B1: g17865: ZN
+B2: PIN: X_OUT_REG_1__SCAN_IN
+
+Cell: g17799-->
+B1: g17851: ZN
+B2: g17948: ZN
+A1: FE_OFC17_n_113: Z
+A2: PIN: CONT1_REG_3__SCAN_IN
+
+Cell: g17932-->
+A1: g17947: ZN
+A2: PIN: CONT1_REG_3__SCAN_IN
+
+Cell: g17922-->
+A1: g17946: ZN
+A2: PIN: STATO_REG_1__SCAN_IN
+
+Cell: g17729-->
+A: g17739: ZN
+B2: PIN: CONT1_REG_4__SCAN_IN
+B1: g17817: ZN
+
+Cell: g17933-->
+A1: g17948: ZN
+A2: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17865-->
+A: g17874: ZN
+
+Cell: g17900-->
+A: g17908: ZN
+
+Cell: g17715-->
+A1: g17737: ZN
+A2: PIN: CONT_REG_0__SCAN_IN
+
+Cell: g17926-->
+A2: PIN: CONT1_REG_4__SCAN_IN
+A1: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17908-->
+A2: PIN: CONT1_REG_0__SCAN_IN
+A1: PIN: CONT1_REG_1__SCAN_IN
+
+Cell: g17941-->
+A: PIN: R_IN_REG_2__SCAN_IN
+
+Cell: g17906-->
+A1: PIN: CONT1_REG_0__SCAN_IN
+A2: PIN: R_IN_REG_0__SCAN_IN
+
+Cell: g17923-->
+A2: PIN: CONT1_REG_2__SCAN_IN
+A1: PIN: CONT1_REG_3__SCAN_IN
+
+Cell: g17955-->
+A: PIN: CONT1_REG_8__SCAN_IN
+
+Cell: g17766-->
+A2: g17803: CO
+A1: g17861: ZN
+A3: g17928: ZN
+
+Cell: g17813-->
+A2: g17837: CO
+A1: g17927: ZN
+
+Cell: g17952-->
+A: PIN: R_IN_REG_0__SCAN_IN
+
+Cell: g17934-->
+A: PIN: CONT_REG_0__SCAN_IN
+
+Cell: g17835-->
+S: g17883: ZN
+B: PIN: X_IN_1_
+A: PIN: R_IN_REG_1__SCAN_IN
+
+Cell: g17936-->
+A: PIN: STATO_REG_3__SCAN_IN
+
+Cell: g17679-->
+A1: g17699: ZN
+A2: g17877: ZN
+
+Cell: g17844-->
+A1: g17874: ZN
+A2: PIN: STATO_REG_3__SCAN_IN
+
+Cell: g17937-->
+A: PIN: STATO_REG_2__SCAN_IN
+
+Cell: g17950-->
+A: PIN: CONT1_REG_4__SCAN_IN
+
+Pin: U633-->
+g17710: ZN
+
+Pin: U686-->
+g17803: S
+
+Pin: U629-->
+g17654: ZN
+
+Pin: U694-->
+g17656: ZN
+
+Pin: U697-->
+g17640: ZN
+
+Pin: U698-->
+g17635: ZN
+
+Pin: U699-->
+g17619: ZN
+
+Pin: U627-->
+g17693: ZN
+
+Pin: U701-->
+g17614: ZN
+
+Pin: U703-->
+g17706: ZN
+
+Pin: U704-->
+g17675: ZN
+
+Pin: U630-->
+g17658: ZN
+
+Pin: U705-->
+g17646: ZN
+
+Pin: U634-->
+g17683: ZN
+
+Pin: U635-->
+g17738: ZN
+
+Pin: U708-->
+g17829: Z
+
+Pin: U625-->
+g17748: ZN
+
+Pin: U709-->
+g17832: Z
+
+Pin: U711-->
+g17831: Z
+
+Pin: U628-->
+g17671: ZN
+
+Pin: U624-->
+g17796: ZN
+
+Pin: U700-->
+g17613: ZN
+
+Pin: U707-->
+g17835: Z
+
+Pin: U696-->
+g17647: ZN
+
+Pin: U710-->
+g17834: Z
+
+Pin: U702-->
+g17616: ZN
+
+Pin: U632-->
+g17685: ZN
+
+Pin: U693-->
+g17666: ZN
+
+Pin: U631-->
+g17753: ZN
+
+Pin: U626-->
+g17724: ZN
+
+Pin: U706-->
+g17833: Z
+

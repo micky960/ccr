@@ -15,13 +15,27 @@ void DEF::printCells(){
 
     for(const auto [name, c]: cellList){
 
-        std::cout << "Cell: " << c->name << "-->";
+        std::cout << "Cell: " << c->name << "-->" << std::endl;
 
         for(const auto [pinName, p]: c->ipList)
             std::cout << p.sinkPinName << ": " << p.srcName << ": " << p.srcPinName << std::endl; 
 
         std::cout << std::endl;
     }
+
+}
+
+void DEF::printPins(){
+
+    for(const auto [name, p]: pinList){
+
+        if(!p->isInput()){
+            std::cout << "Pin: " << p->name << "-->" << std::endl;
+            std::cout << p->src.srcName << ": " << p->src.srcPin << std::endl; 
+            std::cout << std::endl;
+        }
+    }
+
 
 }
 
