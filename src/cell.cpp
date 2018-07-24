@@ -37,3 +37,11 @@ void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcP
     }
 
 }
+
+void CELL::printCell(){
+
+    std::cout << "Cell: " << name << "-->" << std::endl;
+
+    for(const auto [pinName, p]: ipList)
+        std::cout << p.sinkPinName << ": " << p.srcName << ": " << p.srcPinName << std::endl; 
+}

@@ -18,6 +18,7 @@ class CELL: public pinPair{
         CELL(std::string line);
         CELL();
         void setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL);
+        void printCell();
 };
 
 #endif

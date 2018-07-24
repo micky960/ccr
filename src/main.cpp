@@ -38,4 +38,6 @@ int main(int argc, char* argv[]){
     //def_parse->printPins();
 
     NETWORKFLOW* netwrkflw_parse = new NETWORKFLOW(networkflow);
+
+    //netwrkflw_parse->printCells();
 }

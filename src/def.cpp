@@ -14,12 +14,7 @@ DEF::DEF(std::ifstream& def){
 void DEF::printCells(){
 
     for(const auto [name, c]: cellList){
-
-        std::cout << "Cell: " << c->name << "-->" << std::endl;
-
-        for(const auto [pinName, p]: c->ipList)
-            std::cout << p.sinkPinName << ": " << p.srcName << ": " << p.srcPinName << std::endl; 
-
+        c->printCell();
         std::cout << std::endl;
     }
 
