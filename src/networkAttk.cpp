@@ -15,13 +15,14 @@ NETWORKFLOW::NETWORKFLOW(std::ifstream& networkFile){
         std::string delims = "+++";
         boost::algorithm::iter_split(tokens, line, boost::first_finder(delims));
 
-        if(tokens[1].find("OUTPUT") != std::string::npos || tokens[1].find("INPUT") != std::string::npos){
+        if(tokens[1].find("OUTPUT") != std::string::npos){
             _parsePin(line);
         }
-        else{
+        else if(tokens[1].find("INPUT") == std::string::npos){
             //std::cout << "line: " << line << std::endl;
             _parseCell(line); 
         }
+        else{}//reserved for parsing PI
     }
 
 }
@@ -33,6 +34,16 @@ void NETWORKFLOW::printCells(){
         std::cout << std::endl;
     }
 
+}
+
+void NETWORKFLOW::printPins(){
+
+    for(const auto [name, p]: pinList){
+
+        if(!p->isInput()){
+            p->printPin();
+        }
+    }
 }
 
 void NETWORKFLOW::_parseCell(std::string line){
@@ -65,7 +76,53 @@ void NETWORKFLOW::_parseCell(std::string line){
 
 void NETWORKFLOW::_parsePin(std::string line){
 
-    std::cout << line << std::endl;
+    //std::cout << line << std::endl;
+    std::vector<std::string> tokens;
+    std::string delims = "+++";
+    boost::algorithm::iter_split(tokens, line, boost::first_finder(delims));
+
+    std::stringstream ss(tokens[0]);
+    std::string name;
+    ss>>name;
+    ss>>name;
+   
+    PIN* p = new PIN();
+    
+    p->name = name;
+
+    boost::algorithm::trim(tokens[1]);
+   
+    delims = "|";
+    boost::algorithm::iter_split(tokens, line, boost::first_finder(delims));
+
+    for(int i=1; i<tokens.size()-1; i++){
+
+            std::vector<std::string> tokens2;
+            std::string delims = ":";
+            boost::algorithm::iter_split(tokens2, tokens[i], boost::first_finder(delims));
+
+            std::string sinkPinName, srcInstName, srcPinName, temp;
+
+            std::stringstream ss(tokens2[2]);
+            ss>>srcInstName;
+            boost::algorithm::trim(srcInstName);
+            ss>>srcPinName;
+            ss>>srcPinName;
+            boost::algorithm::trim(srcPinName);
+
+            bool isBEOL;
+            if(tokens[1].find("BEOL") != std::string::npos)
+                isBEOL = true;
+            else isBEOL = false;
+
+            if(srcPinName.find("Primary") != std::string::npos)
+                p->setSrc("PIN", srcInstName, isBEOL);
+            else
+                p->setSrc(srcInstName, srcPinName, isBEOL);
+        }
+
+        pinList[p->name] = p;
+
 }
 
 void NETWORKFLOW::_parseCellPin(std::string tok, CELL* c){

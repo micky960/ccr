@@ -13,6 +13,7 @@ class DEF{
         std::unordered_map<std::string, NET*> netList;
         DEF(std::ifstream& def);
         std::unordered_map<std::string, CELL*> getCells(){return cellList;}
+        std::unordered_map<std::string, PIN*> getPins(){return pinList;}
         void printCells();
         void printPins();
 

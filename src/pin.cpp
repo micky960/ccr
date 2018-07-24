@@ -15,9 +15,21 @@ PIN::PIN(std::string line){
     io = (dir.compare("INPUT"))? false : true;
 
 }
-void PIN::setSrc(std::string srcName, std::string srcPin){
+
+PIN::PIN(){
+    io = false;
+}
+
+void PIN::setSrc(std::string srcName, std::string srcPin, bool isBEOL){
 
     src.srcName = srcName;
     src.srcPin = srcPin;
+    src.isBEOL = isBEOL;
 
+}
+
+void PIN::printPin(){
+    std::cout << "Pin: " << name << "-->" << std::endl;
+    std::cout << src.srcName << ": " << src.srcPin << std::endl; 
+    std::cout << std::endl;
 }

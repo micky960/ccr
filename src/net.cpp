@@ -72,7 +72,7 @@ void   NET::_parsePins(std::unordered_map<std::string, PIN*> glbPinList){
     for(const auto p : pinList) {
         PIN* cur = glbPinList[p.pin];
         if(!cur->isInput()){
-            cur->setSrc(src.instName, src.pinName);
+            cur->setSrc(src.instName, src.pinName, false);
         }
     }   
 

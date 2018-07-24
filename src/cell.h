@@ -19,6 +19,7 @@ class CELL: public pinPair{
         CELL();
         void setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL);
         void printCell();
+        std::unordered_map<std::string, cPP> getIpList(){return ipList;}
 };
 
 #endif
