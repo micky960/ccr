@@ -95,15 +95,16 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                 CELL* c2 = defCells[c1->name];
                 std::unordered_map<std::string, cPP> defIpList = c2->getIpList();
                 cPP p2 = defIpList[p1.sinkPinName];
-                if(p1.isKey){
+                if(p2.isKey){
                     keyTot++;
+                    std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
                     if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
-                        std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
+                        std::cout << "Correct! Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
                         keyCorr++;
                         cellCorr++;
                     }
                     else{
-                        std::cout << "Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
+                        std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
                     }
                 }
                 else if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
