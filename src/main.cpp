@@ -59,33 +59,9 @@ int main(int argc, char* argv[]){
     std::cout << "total: "<<tot<<"\tcorrect: "<<corr<< "\t\% correct connections: " << (double)corr/tot*100 << std::endl;
 }
 
-void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
-
-    int cellTot = 0, cellCorr = 0;
-    for(const auto [name1, c1]: netwrkflwCells){
-        std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
-        for(const auto [name2, p1]: netwrkflwIpList){
-            if(p1.isBEOL){
-                tot++; 
-                cellTot++;
-                CELL* c2 = defCells[c1->name];
-                std::unordered_map<std::string, cPP> defIpList = c2->getIpList();
-                cPP p2 = defIpList[p1.sinkPinName];
-                if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
-                    corr++;
-                    cellCorr++;
-                }
-            }
-        }
-    }
-
-    std::cout << "Cell-------->total: "<<cellTot<<"\tcorrect: "<<cellCorr<< "\t\% correct connections: " << (double)cellCorr/cellTot*100 << std::endl;
-
-}
-
 //void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
 //
-//    int cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0;
+//    int cellTot = 0, cellCorr = 0;
 //    for(const auto [name1, c1]: netwrkflwCells){
 //        std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
 //        for(const auto [name2, p1]: netwrkflwIpList){
@@ -95,18 +71,7 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
 //                CELL* c2 = defCells[c1->name];
 //                std::unordered_map<std::string, cPP> defIpList = c2->getIpList();
 //                cPP p2 = defIpList[p1.sinkPinName];
-//                if(p1.isKey){
-//                    keyTot++;
-//                    if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
-//                        std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
-//                        keyCorr++;
-//                        cellCorr++;
-//                    }
-//                    else{
-//                        std::cout << "Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
-//                    }
-//                }
-//                else if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
+//                if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
 //                    corr++;
 //                    cellCorr++;
 //                }
@@ -114,10 +79,45 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
 //        }
 //    }
 //
-//    std::cout << "Key-------->total: "<<keyTot<<"\tcorrect: "<<keyCorr<< "\t\% correct connections: " << (double)keyCorr/keyTot*100 << std::endl;
 //    std::cout << "Cell-------->total: "<<cellTot<<"\tcorrect: "<<cellCorr<< "\t\% correct connections: " << (double)cellCorr/cellTot*100 << std::endl;
 //
 //}
+
+void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
+
+    int cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0;
+    for(const auto [name1, c1]: netwrkflwCells){
+        std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
+        for(const auto [name2, p1]: netwrkflwIpList){
+            if(p1.isBEOL){
+                tot++; 
+                cellTot++;
+                CELL* c2 = defCells[c1->name];
+                std::unordered_map<std::string, cPP> defIpList = c2->getIpList();
+                cPP p2 = defIpList[p1.sinkPinName];
+                if(p1.isKey){
+                    keyTot++;
+                    if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
+                        std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
+                        keyCorr++;
+                        cellCorr++;
+                    }
+                    else{
+                        std::cout << "Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
+                    }
+                }
+                else if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
+                    corr++;
+                    cellCorr++;
+                }
+            }
+        }
+    }
+
+    std::cout << "Key-------->total: "<<keyTot<<"\tcorrect: "<<keyCorr<< "\t\% correct connections: " << (double)keyCorr/keyTot*100 << std::endl;
+    std::cout << "Cell-------->total: "<<cellTot<<"\tcorrect: "<<cellCorr<< "\t\% correct connections: " << (double)cellCorr/cellTot*100 << std::endl;
+
+}
 
 void ccrPins(std::unordered_map<std::string, PIN*> defPins, std::unordered_map<std::string, PIN*> netwrkflwPins){
 
