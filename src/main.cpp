@@ -61,7 +61,7 @@ int main(int argc, char* argv[]){
 
 void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
 
-    int cellTot = 0, cellCorr = 0;
+    int cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0;
     for(const auto [name1, c1]: netwrkflwCells){
         std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
         for(const auto [name2, p1]: netwrkflwIpList){
@@ -71,6 +71,7 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                 CELL* c2 = defCells[c1->name];
                 std::unordered_map<std::string, cPP> defIpList = c2->getIpList();
                 cPP p2 = defIpList[p1.sinkPinName];
+
                 if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
                     corr++;
                     cellCorr++;
