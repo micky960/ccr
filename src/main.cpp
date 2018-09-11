@@ -37,7 +37,9 @@ int main(int argc, char* argv[]){
     }
 
     DEF* def_parse = new DEF(def);
+        std::cout << "Def parsed" <<std::endl;
     NETWORKFLOW* netwrkflw_parse = new NETWORKFLOW(networkflow);
+        std::cerr << "Networkflow parsed"<<std::endl;
 
     std::unordered_map<std::string, CELL*> defCells, netwrkflwCells;
     std::unordered_map<std::string, PIN*> defPins, netwrkflwPins;
@@ -101,8 +103,10 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                     if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
                         std::cout << "Correct! Driver:" << p1.srcName << ",\t Sink:" << c1->name << std::endl;
                         keyCorr++;
-                        corr++;
-                        cellCorr++;
+                        //this is to consider physical ccr for regular nets only
+                        tot--;//tot should not increase if key net
+                        //corr++;
+                        //cellCorr++;
                     }
                     else{
                         std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
