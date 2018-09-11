@@ -149,14 +149,20 @@ void NETWORKFLOW::_parseCellPin(std::string tok, CELL* c){
 
     //std::cout << "sink pin: " << sinkPinName << "src inst:" << srcInstName << "src inst pin:" << srcPinName << std::endl;
 
-    bool isBEOL;
+    bool isBEOL, isKey;
     if(tokens[1].find("BEOL") != std::string::npos)
         isBEOL = true;
     else isBEOL = false;
 
+    if(srcInstName.find("key") != std::string::npos)
+        isKey = true;
+    else    isKey = false;
+
     if(srcPinName.find("Primary") != std::string::npos)
         c->setSrc(sinkPinName, "PIN", srcInstName, isBEOL);
+        //c->setSrc(sinkPinName, "PIN", srcInstName, isBEOL, isKey);
     else
         c->setSrc(sinkPinName, srcInstName, srcPinName, isBEOL);
+        //c->setSrc(sinkPinName, srcInstName, srcPinName, isBEOL, isKey);
 }
 

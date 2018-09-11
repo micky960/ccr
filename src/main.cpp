@@ -99,8 +99,9 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                     keyTot++;
                     std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
                     if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
-                        std::cout << "Correct! Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
+                        std::cout << "Correct! Driver:" << p1.srcName << ",\t Sink:" << c1->name << std::endl;
                         keyCorr++;
+                        corr++;
                         cellCorr++;
                     }
                     else{

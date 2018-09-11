@@ -1,1 +1,22 @@
-total: 45	correct: 37	% correct connections: 82.2222
+Driver:u_key_logic_0_8_buf_inst,	 Sink:U4189
+Wrong! Driver: PIN,	 Sink:U4189
+Driver:u_key_logic_0_39_buf_inst,	 Sink:U2883
+Wrong! Driver: PIN,	 Sink:U2883
+Driver:u_key_logic_0_16_buf_inst,	 Sink:U2828
+Correct! Driver:u_key_logic_0_16_buf_inst,	 Sink:U2828
+Driver:u_key_logic_0_11_buf_inst,	 Sink:U35570
+Wrong! Driver: U2306,	 Sink:U35570
+Driver:u_key_logic_0_6_buf_inst,	 Sink:U2196
+Wrong! Driver: U2590,	 Sink:U2196
+Driver:u_key_logic_0_49_buf_inst,	 Sink:U3494
+Correct! Driver:u_key_logic_0_49_buf_inst,	 Sink:U3494
+Driver:u_key_logic_0_55_buf_inst,	 Sink:U4086
+Wrong! Driver: PIN,	 Sink:U4086
+Driver:u_key_logic_0_55_buf_inst,	 Sink:U4100
+Wrong! Driver: PIN,	 Sink:U4100
+Driver:u_key_logic_0_71_buf_inst,	 Sink:U2672
+Correct! Driver:u_key_logic_0_8_buf_inst,	 Sink:U2672
+Key-------->total: 9	correct: 3	% correct connections: 33.3333
+Cell-------->total: 35	correct: 21	% correct connections: 60
+Pin-------->total: 36	correct: 24	% correct connections: 66.6667
+total: 71	correct: 45	% correct connections: 63.3803

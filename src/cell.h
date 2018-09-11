@@ -7,7 +7,7 @@
 
 typedef struct pinPair{
     std::string srcName, srcPinName, sinkName, sinkPinName;
-    bool isSourcePI = false, isBEOL = false;
+    bool isSourcePI = false, isBEOL = false, isKey = false;
 }cPP;
 
 class CELL: public pinPair{
@@ -17,7 +17,7 @@ class CELL: public pinPair{
         std::unordered_map<std::string, cPP> ipList;
         CELL(std::string line);
         CELL();
-        void setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL);
+        void setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL, bool isKey = false);
         void printCell();
         std::unordered_map<std::string, cPP> getIpList(){return ipList;}
 };

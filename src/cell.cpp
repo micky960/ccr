@@ -18,7 +18,7 @@ CELL::CELL(){
 
 }
 
-void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL){
+void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcPinName, bool isBEOL, bool isKey){
 
     cPP cur;
     cur.sinkName = name;
@@ -26,6 +26,7 @@ void CELL::setSrc(std::string sinkPinName, std::string srcName, std::string srcP
     cur.srcName = srcName;
     cur.srcPinName = srcPinName;
     cur.isBEOL = isBEOL;
+    cur.isKey = isKey;
 
     if (ipList.find(cur.sinkPinName) == ipList.end()){
         ipList[cur.sinkPinName] = cur;
