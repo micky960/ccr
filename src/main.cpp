@@ -108,7 +108,7 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                         //corr++;
                         //cellCorr++;
                     }
-                    if((p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
+                    if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
                         keyPhyCorr++;
                     }
                     else{
