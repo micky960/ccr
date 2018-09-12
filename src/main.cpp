@@ -100,6 +100,9 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                 if(p2.isKey){
                     keyTot++;
                     std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
+                    if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
+                        keyPhyCorr++;
+                    }
                     if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
                         std::cout << "Correct! Driver:" << p1.srcName << ",\t Sink:" << c1->name << std::endl;
                         keyCorr++;
@@ -108,11 +111,10 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                         //corr++;
                         //cellCorr++;
                     }
-                    if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
-                        keyPhyCorr++;
-                    }
                     else{
-                        //std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
+                        if(p1.srcName.find("logic") == std::string::npos)
+                            keyCorr += 0.5;
+                        std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
                     }
                 }
                 else if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
