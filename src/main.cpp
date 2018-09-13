@@ -87,7 +87,7 @@ int main(int argc, char* argv[]){
 
 void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
 
-    int cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0, keyPhyTot = 0, keyPhyCorr = 0;
+    double cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0, keyPhyTot = 0, keyPhyCorr = 0;
     for(const auto [name1, c1]: netwrkflwCells){
         std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
         for(const auto [name2, p1]: netwrkflwIpList){
@@ -113,7 +113,7 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                     }
                     else{
                         if(p1.srcName.find("logic") == std::string::npos)
-                            keyCorr += 0.5;
+                            //keyCorr = keyCorr + 0.5; //consider for key-gates driven by regular gates, this case we should take random tie cell connection
                         std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
                     }
                 }
