@@ -12,6 +12,7 @@
 #include <list>
 #include <omp.h>
 #include <boost/algorithm/string.hpp>
+#include<time.h>
 
 #include "def.h"
 #include "networkAttk.h"
@@ -87,6 +88,7 @@ int main(int argc, char* argv[]){
 
 void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_map<std::string, CELL*> netwrkflwCells){
 
+    srand(time(0));
     double cellTot = 0, cellCorr = 0, keyTot = 0, keyCorr = 0, keyPhyTot = 0, keyPhyCorr = 0;
     for(const auto [name1, c1]: netwrkflwCells){
         std::unordered_map<std::string, cPP> netwrkflwIpList = c1->getIpList(); 
@@ -99,12 +101,13 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                 cPP p2 = defIpList[p1.sinkPinName];
                 if(p2.isKey){
                     keyTot++;
-                    std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
+                    //std::cout << "Driver:" << p2.srcName << ",\t Sink:" << c2->name << std::endl;
                     if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
                         keyPhyCorr++;
+                        std::cout << "Key driver connected correctly: " << p2.srcName << std::endl;
                     }
                     if(p1.srcName.find("logic_0") != std::string::npos && p2.srcName.find("logic_0") != std::string::npos || p1.srcName.find("logic_1") != std::string::npos && p2.srcName.find("logic_1") != std::string::npos ){
-                        std::cout << "Correct! Driver:" << p1.srcName << ",\t Sink:" << c1->name << std::endl;
+                        //std::cout << "Correct! Driver:" << p1.srcName << ",\t Sink:" << c1->name << std::endl;
                         keyCorr++;
                         //this is to consider physical ccr for regular nets only
                         tot--;//tot should not increase if key net
@@ -113,8 +116,9 @@ void ccrCells(std::unordered_map<std::string, CELL*> defCells, std::unordered_ma
                     }
                     else{
                         if(p1.srcName.find("logic") == std::string::npos)
+                            keyCorr = keyCorr + rand()%2; //consider for key-gates driven by regular gates, this case we should take random tie cell connection
                             //keyCorr = keyCorr + 0.5; //consider for key-gates driven by regular gates, this case we should take random tie cell connection
-                        std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
+                            //std::cout << "Wrong! Driver: " << p1.srcName << ",\t Sink:" << name1 << std::endl;
                     }
                 }
                 else if(p2.srcName == p1.srcName && p2.srcPinName == p1.srcPinName){
