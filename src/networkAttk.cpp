@@ -154,7 +154,7 @@ void NETWORKFLOW::_parseCellPin(std::string tok, CELL* c){
         isBEOL = true;
     else isBEOL = false;
 
-    if(srcInstName.find("key") != std::string::npos)
+    if(srcInstName.find("KEY") != std::string::npos)
         isKey = true;
     else    isKey = false;
 
